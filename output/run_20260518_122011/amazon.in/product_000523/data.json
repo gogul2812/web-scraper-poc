@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Realme 10 Pro 5G (Hyperspace, 128 GB) (8 GB RAM)",
+  "product_url": "https://www.amazon.in/dp/B0BPYPZNHD",
+  "brand": "Brand: realme",
+  "ean": "",
+  "price": "₹22,999",
+  "description": "108MP + 2MP | 16MP Front Camera; 5000 mAh Battery Form Factor: Bar",
+  "sellers": [
+    {
+      "seller": "Anik",
+      "price": "₹22,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

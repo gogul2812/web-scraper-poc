@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "OnePlus 11 5G (Eternal Green, 16GB RAM, 256GB Storage)",
+  "product_url": "https://www.amazon.in/dp/B0BQJM2PXW",
+  "brand": "Visit the OnePlus Store",
+  "ean": "",
+  "price": "₹61,999",
+  "description": "Camera: 50MP Main Camera with Sony IMX890 (OIS supported), 48MP Ultrawide Camera with Sony IMX581 (FOV: 115 degree) and 32MP Telephoto lens with Sony IMX709 (2X Optical Zoom); 16MP Front (Selfie) Camera with EIS support Camera Modes: Photo, Video, Night, PRO, PANO, Portrait, TIME-LAPSE, SLO-MO, Text scanner, Movie, Long Exposure, Dual-view video, TILT-SHIFT, XPAN, Scan, STICKER, and AI ID photo Display: 6.7 Inches; 120 Hz AMOLED QHD Display with Corning Gorilla Glass Victus; Resolution: 3216 X 1440 pixels; HDR 10+, sRGB, 10-bit Color Depth, PWM + DC dimming Operating System: OxygenOS based on Android 13 Processor: Snapdragon 8 Gen 2 Mobile Platform 16GB LPDDR5X RAM, 256GB UFS4.0 Storage Battery & Charging: 5000 mAh with 100W SUPERVOOC In-Display Fingerprint Sensor",
+  "sellers": [
+    {
+      "seller": "MobileProo",
+      "price": "₹61,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

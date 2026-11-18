@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Google Pixel 9 (Porcelain, 256 GB) (12 GB RAM)",
+  "product_url": "https://www.amazon.in/dp/B0DZXZTPN8",
+  "brand": "Brand: Google",
+  "ean": "",
+  "price": "₹74,999.00",
+  "description": "Powerful Performance: Equipped with Google’s latest Tensor G4 processor and 12GB RAM, ensuring seamless multitasking and blazing-fast speeds. Immersive Display: Features a 6.3-inch OLED screen with 120Hz refresh rate, HDR support, and peak brightness of 2700 nits for crystal-clear visuals. Pro-Grade Camera System: 50MP main sensor + 48MP ultrawide lens with AI-enhanced photography for stunning images. 10.5MP front camera for high-quality selfies and video calls. Long-Lasting Battery: 4700mAh battery with 45W fast charging and 15W wireless charging, keeping you powered up throughout the day. Premium & Durable Design: Sleek and stylish build with Corning Gorilla Glass Victus 2 protection. Available in Peony, Wintergreen, Porcelain, and Obsidian colors.",
+  "sellers": [
+    {
+      "seller": "PSV Retail",
+      "price": "₹74,999.00"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

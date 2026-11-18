@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Nothing Phone (3a) Pro 5G (Grey, 12GB RAM + 256GB Storage)",
+  "product_url": "https://www.amazon.in/dp/B0DZTQ1XH1",
+  "brand": "Brand: Nothing",
+  "ean": "",
+  "price": "₹34,999.00",
+  "description": "Essential Key can effortlessly grab photos, record your screen, and capture your voice - all in one place",
+  "sellers": [
+    {
+      "seller": "Nothing Store1",
+      "price": "₹34,999.00"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

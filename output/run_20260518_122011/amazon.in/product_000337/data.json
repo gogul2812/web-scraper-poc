@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "realme P4 Lite Smartphone, 4GB RAM, 64GB Storage, Sea Blue",
+  "product_url": "https://www.amazon.in/dp/B0GRB7CDXN",
+  "brand": "Brand: realme",
+  "ean": "",
+  "price": "₹12,999",
+  "description": "Memory and Storage: 4GB RAM and 64GB internal storage provide smooth multitasking and ample space for your apps, photos, and media files Display: Large screen with vibrant colours and clear visuals for an immersive viewing experience whilst browsing, gaming, or watching videos Camera System: Dual rear camera setup captures detailed photos and videos, perfect for everyday photography and social media sharing Design: Sleek Sea Blue finish with a modern aesthetic and slim profile that fits comfortably in your hand for easy one-handed use Connectivity: 4G LTE smartphone with dual SIM support, Wi-Fi, Bluetooth, and GPS for staying connected wherever you go",
+  "sellers": [
+    {
+      "seller": "GlideTech",
+      "price": "₹12,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

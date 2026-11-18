@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "APC Back-UPS BX600C-IN 600VA / 360W, 230V, UPS System, an Ideal Power Backup & Protection for Home Office, Desktop PC & Home Electronics",
+  "product_url": "https://www.amazon.in/dp/B016XVRKZM",
+  "brand": "Visit the APC Store",
+  "ean": "",
+  "price": "₹4,299.00",
+  "description": "Compact Design Line Interactive UPS with Load Capacity of 360Watts / 600VA. Output Frequency (sync to mains) : 47 - 63 Hz Sync to mains Three Battery Backed up and Surge Protected 6A, 2/3 Pin Output Indian Power Socket Automatic Voltage Regulator (AVR) with Wide Input Voltage Range 145-290V, Transfer Time - 10 ms typical : 12 ms maximum 1x7.2Ah Battery provides 20 - 75 min. Back-Up time *as per the load Generator Compatible; Compatible with low power loads e.g. Wi-Fi router, DSL modem Cold start capability allows the load to power on just on battery; Stays quiet during a changeover from mains to generator",
+  "sellers": [
+    {
+      "seller": "Clicktech Retail Private Ltd",
+      "price": "₹4,299.00"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

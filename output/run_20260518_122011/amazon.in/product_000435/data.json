@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Nothing Phone (2a) 5G (Black, 8GB RAM, 256GB Storage) | 6.7\" AMOLED Display | 50MP (OIS) + 50 MP | 32 MP Front | Mediatek Dimensity 7200 Pro Processor | Glyph Interface | 45 W Charging 100% in 59 mins",
+  "product_url": "https://www.amazon.in/dp/B0CX74JKLL",
+  "brand": "Brand: Nothing",
+  "ean": "",
+  "price": "₹24,999.00",
+  "description": "Nothing Phone (2a) 5G (Black, 8GB RAM, 256GB Storage)",
+  "sellers": [
+    {
+      "seller": "Nothing Store1",
+      "price": "₹24,999.00"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

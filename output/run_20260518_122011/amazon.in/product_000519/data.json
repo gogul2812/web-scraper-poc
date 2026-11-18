@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Motorola g31 (Baby Blue, 64 GB) (4 GB RAM)",
+  "product_url": "https://www.amazon.in/dp/B09TBCVLQB",
+  "brand": "Visit the Motorola Store",
+  "ean": "",
+  "price": "₹7,111.11",
+  "description": "Display Type: Fhd+ Amoled Display; Human Interface Input: Touch Screen; Form Factor: Bar",
+  "sellers": [
+    {
+      "seller": "MobiiTrade",
+      "price": "₹7,111.11"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

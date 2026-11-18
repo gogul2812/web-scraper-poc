@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "SAMSUNG Galaxy F07 (Green, 64 GB) (4 GB RAM)",
+  "product_url": "https://www.amazon.in/dp/B0FT7T3GZF",
+  "brand": "Visit the Samsung Store",
+  "ean": "",
+  "price": "₹9,999",
+  "description": "Vibrant Display: Features a 6.7-inch HD+ PLS LCD screen with a sleek water-drop notch for immersive viewing. Reliable Performance: Comes with 4 GB RAM and 64 GB storage (expandable), ideal for everyday multitasking and media use. Long-Lasting Battery: Powered by a 5000 mAh battery with 25W fast charging support for all-day usage. Sharp Camera Setup: Equipped with a 50 MP dual rear camera and an 8 MP front camera for clear photos and selfies. Stylish & Functional: Sleek Green finish, side-mounted fingerprint sensor, and IP54 dust/splash resistance for added durability.",
+  "sellers": [
+    {
+      "seller": "Vardhman_Tele.",
+      "price": "₹9,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

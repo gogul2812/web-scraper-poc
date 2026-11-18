@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Samsung Galaxy F17 5G, Neo Black (4GB, 128GB)",
+  "product_url": "https://www.amazon.in/dp/B0FR2P64M2",
+  "brand": "Brand: Samsung EVO Plus",
+  "ean": "",
+  "price": "₹16,499",
+  "description": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB 17.02 cm (6.7 inch) Full HD+ Display 50MP + 5MP | 13MP Front Camera 5000 mAh Battery Exynos 1330 Processor",
+  "sellers": [
+    {
+      "seller": "Hardtrac",
+      "price": "₹16,499"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

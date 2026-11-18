@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Poco X7 5G Glacier Green 8GB RAM 128GB ROM",
+  "product_url": "https://www.amazon.in/dp/B0F5Q5FWT4",
+  "brand": "Brand: POCO",
+  "ean": "",
+  "price": "₹24,999",
+  "description": "Processor: Powerful MediaTek Dimensity 7300-Ultra + 5G SoC | 16GB of RAM including 8GB virtual | 6.67\" 3D Curved AMOLED Display, 3000nits High Brightness & 120Hz Refresh Rate | 50MP SONY AI Triple camera Setup |In Display fingerprint | 5500mAh Battery 6.67\" 3D Curved AMOLED Display with 120Hz AdaptiveSync Refresh Rate , 3000nits in High Brightness mode 50MP SONY Triple camera with Primary sensor of f/1.5 (4-in-1 super pixel) with the following modes: Photo | Portrait | Night | Video | 50MP mode | Time-lapse | Classic film filters | Frame | HDR | Google lens | Voice Shutter | 5500 mAh Battery + 45W Fast Charging MediaTek Dimensity 7300-Ultra 5G processor",
+  "sellers": [
+    {
+      "seller": "Gaurav Trader's Sales",
+      "price": "₹24,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

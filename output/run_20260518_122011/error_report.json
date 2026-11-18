@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp_utc": "2026-05-18T07:54:27+00:00",
+    "site": "amazon.in",
+    "product_url": "https://www.amazon.in/dp/B0F3XB7T5Q",
+    "failure_type": "ERROR",
+    "detail": "",
+    "status_before": "ERROR"
+  },
+  {
+    "timestamp_utc": "2026-05-18T07:55:35+00:00",
+    "site": "amazon.in",
+    "product_url": "https://www.amazon.in/dp/B0F4CWD6V3",
+    "failure_type": "ERROR",
+    "detail": "",
+    "status_before": "ERROR"
+  },
+  {
+    "timestamp_utc": "2026-05-18T07:56:43+00:00",
+    "site": "amazon.in",
+    "product_url": "https://www.amazon.in/dp/B0F3XP9GRT",
+    "failure_type": "ERROR",
+    "detail": "",
+    "status_before": "ERROR"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Google Pixel 9a 5G (Obsidian, 8GB RAM, 256GB Storage)",
+  "product_url": "https://www.amazon.in/dp/B0FQBZQR9Q",
+  "brand": "Brand: Google",
+  "ean": "",
+  "price": "₹49,999",
+  "description": "6.3\" Actua pOLED, 60–120 Hz Tensor G4, 8GB RAM + 256GB storage 48 MP wide (OIS) + 13 MP ultrawide; 13 MP selfie 4K video up to 60 fps; advanced stabilization 5100 mAh (typ) battery; fast & wireless charging IP68 dust & water resistance 7 years of OS & security updates",
+  "sellers": [
+    {
+      "seller": "click 1",
+      "price": "₹49,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

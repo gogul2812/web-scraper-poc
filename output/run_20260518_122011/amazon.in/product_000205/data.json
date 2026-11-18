@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Samsung Galaxy S24 Snapdragon 8 Gen 3 5G (Onyx Black, 128 GB) (8 GB RAM)",
+  "product_url": "https://www.amazon.in/dp/B0GGH5KMM2",
+  "brand": "Brand: Samsung EVO Plus",
+  "ean": "",
+  "price": "₹74,999",
+  "description": "8 GB RAM | 128 GB ROM 15.75 cm (6.2 inch) Full HD+ Display 50MP + 12MP | 12MP Front Camera",
+  "sellers": [
+    {
+      "seller": "Prmobilesblr",
+      "price": "₹74,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

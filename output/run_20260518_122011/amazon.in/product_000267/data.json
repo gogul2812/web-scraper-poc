@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Nothing Phone (4a) Pro (Black, 12GB, 256GB)",
+  "product_url": "https://www.amazon.in/dp/B0GRFRWT78",
+  "brand": "Visit the Nothing Store",
+  "ean": "",
+  "price": "₹55,999",
+  "description": "12GB + 256GB",
+  "sellers": [
+    {
+      "seller": "A B TELEVENTURES INDIA PRIVATE LIMITED",
+      "price": "₹55,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

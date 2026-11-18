@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Google Pixel 10 5G (Indigo, 12GB RAM, 256GB Storage)",
+  "product_url": "https://www.amazon.in/dp/B0FP31YRSF",
+  "brand": "Brand: Google",
+  "ean": "",
+  "price": "₹79,999",
+  "description": "Powerful Performance: Runs on Google's latest Tensor G5 processor with 12 GB RAM, offering smooth multitasking, fast app launches, and enhanced AI features. Stunning Display: Features a 6.3-inch FHD+ Actua OLED display with 120 Hz refresh rate, 3000 nits peak brightness, and Gorilla Glass Victus 2 for a bright, fluid, and durable screen experience. Smart Camera System: Equipped with a 48 MP main camera, 13 MP ultra-wide, and 10.8 MP telephoto (5× optical zoom), plus a 10.5 MP front camera—perfect for crisp photos, videos, and selfies in any light. Long-Lasting Battery: Packs a 4,970 mAh battery that supports 30W wired fast charging, 15W Qi2 wireless charging, and reverse wireless charging for powering other devices. Built for the Future: Comes with Android 16 and guarantees 7 years of software and security updates, IP68 water/dust resistance, and a sleek Indigo finish—made to last and stay updated.",
+  "sellers": [
+    {
+      "seller": "mobile-e-mart",
+      "price": "₹79,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

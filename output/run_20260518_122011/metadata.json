@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.1",
+  "extraction_run_id": "76f3b4ef-95f8-4f9e-a2bd-dbdc76e567e2",
+  "started_at_utc": "2026-05-18T06:50:11+00:00",
+  "finished_at_utc": "2026-05-18T10:21:01+00:00",
+  "duration_seconds": 12651.111,
+  "query": "phone",
+  "sites": [
+    "amazon.in"
+  ],
+  "validation_mode": "fallback",
+  "max_products_per_site": 60000,
+  "catalog_discovery_hard_cap": 70000,
+  "cli": "-y -q phone -s https://www.amazon.in --max-products 60000",
+  "coverage": {
+    "discovered_urls": 588,
+    "attempted": 588,
+    "ok": 585,
+    "blocked": 0,
+    "errors": 3,
+    "filtered": 0,
+    "coverage_ratio_attempted_vs_discovered": 1.0,
+    "success_ratio": 0.9949,
+    "discovered_urls_reported": 588,
+    "total_master_rows": 588,
+    "discovery_debug": {
+      "amazon.in": {
+        "search_query": "phone",
+        "site": "amazon.in",
+        "site_reported_result_count": 80000,
+        "listing_pages_visited": 350,
+        "listing_records_scanned": 37014,
+        "unique_products": 588,
+        "duplicate_products": 36426,
+        "duplicate_ratio": "98.41%",
+        "valid_product_pages_found": 588,
+        "stop_reason": "no_listing_records_on_serp_page",
+        "crawl_status": "COMPLETED",
+        "discovery_duration_minutes": 40.6332,
+        "extraction_urls_queued": 588
+      }
+    }
+  },
+  "timestamp": "2026-05-18T10:21:01.860181+00:00"
+}

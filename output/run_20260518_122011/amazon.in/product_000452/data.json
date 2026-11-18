@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Motorola Moto g51 5G (RAM-4GB,sercomtel, Internal Memory-64GB, Color-Indigo Blue)",
+  "product_url": "https://www.amazon.in/dp/B09SZG7JPN",
+  "brand": "Visit the Motorola Store",
+  "ean": "",
+  "price": "₹17,999",
+  "description": "4 GB RAM | 64 GB ROM; 17.27 cm (6.8 inch) Full HD+ Display Display Type: Amoled; Form Factor: Smartphone",
+  "sellers": [
+    {
+      "seller": "eXCLUSIVE sTORE",
+      "price": "₹17,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Google Pixel 9A (Obsidian, 256 GB) (8 GB RAM)",
+  "product_url": "https://www.amazon.in/dp/B0F6CY1S9Z",
+  "brand": "Brand: Google",
+  "ean": "",
+  "price": "₹49,999",
+  "description": "The best phone camera; Take photos and videos so amazing, you won’t believe you actually took them. Capture small details, create perfect group shots, and even get vivid ones at night.",
+  "sellers": [
+    {
+      "seller": "mobile-e-mart",
+      "price": "₹49,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

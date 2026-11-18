@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Nothing Phone (4a) Pro (Silver, 8GB, 128GB)",
+  "product_url": "https://www.amazon.in/dp/B0GRG8SKTT",
+  "brand": "Visit the Nothing Store",
+  "ean": "",
+  "price": "₹49,999",
+  "description": "8GB + 128GB",
+  "sellers": [
+    {
+      "seller": "GlideTech",
+      "price": "₹49,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

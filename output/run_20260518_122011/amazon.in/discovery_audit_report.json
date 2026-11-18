@@ -1,0 +1,22 @@
+{
+  "search_query": "phone",
+  "site": "amazon.in",
+  "site_reported_result_count": 80000,
+  "listing_pages_visited": 350,
+  "listing_records_scanned": 37014,
+  "valid_product_pages_found": 588,
+  "unique_products": 588,
+  "duplicate_products": 36426,
+  "duplicate_ratio": "98.41%",
+  "crawl_duration_minutes": 40.6332,
+  "crawl_status": "COMPLETED",
+  "stop_reason": "no_listing_records_on_serp_page",
+  "max_search_pages_limit": 2000,
+  "extraction_phase": {
+    "attempted": 588,
+    "ok": 585,
+    "errors": 3,
+    "blocked": 0,
+    "filtered": 0
+  }
+}

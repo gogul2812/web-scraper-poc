@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "POCO M7 Plus 5G, Carbon Black (6GB, 128GB)",
+  "product_url": "https://www.amazon.in/dp/B0FRNNP6F5",
+  "brand": "Brand: POCO",
+  "ean": "",
+  "price": "₹16,999",
+  "description": "6 GB RAM | 128 GB ROM | Expandable Upto 2 TB 17.53 cm (6.9 inch) Display 50MP AI Dual Camera 7000 mAh Battery Snapdragon 6s Gen 3 5G Processor",
+  "sellers": [
+    {
+      "seller": "MANEHA VENTURES PRIVATE LIMITED",
+      "price": "₹16,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

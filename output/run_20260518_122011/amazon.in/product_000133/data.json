@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Nothing Phone 4a (8GB 256GB Black)",
+  "product_url": "https://www.amazon.in/dp/B0GRDDN7JW",
+  "brand": "Visit the Nothing Store",
+  "ean": "",
+  "price": "₹37,500.00",
+  "description": "8GB RAM + 256B",
+  "sellers": [
+    {
+      "seller": "A B TELEVENTURES INDIA PRIVATE LIMITED",
+      "price": "₹37,500.00"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

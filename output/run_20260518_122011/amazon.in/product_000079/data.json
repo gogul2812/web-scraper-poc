@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "VIVO T4 5G (Phantom Grey, 12GB RAM+256GB Storage)",
+  "product_url": "https://www.amazon.in/dp/B0F6TRV5M9",
+  "brand": "Visit the vivo Store",
+  "ean": "",
+  "price": "₹29,999",
+  "description": "Powerful Performance: Equipped with 12GB RAM and 256GB storage for seamless multitasking and ample space for apps, photos, and videos. Next-Gen 5G Connectivity: Experience ultra-fast downloads, smooth streaming, and uninterrupted browsing with advanced 5G support. Stunning AMOLED Display: Enjoy immersive visuals with a high refresh rate for smooth, vibrant viewing of videos, games, and apps. AI-Enhanced Triple Camera: Capture every detail in vivid clarity with a versatile camera system optimized for any lighting condition. All-Day Battery & Security: Stay productive with a long-lasting battery and advanced features like in-display fingerprint sensor and facial recognition.",
+  "sellers": [
+    {
+      "seller": "Whitepine Mobitech Private Limited",
+      "price": "₹29,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

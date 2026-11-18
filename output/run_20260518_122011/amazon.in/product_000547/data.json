@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "vivo T3 5G (Cosmic Blue, 256 GB) (8 GB RAM)",
+  "product_url": "https://www.amazon.in/dp/B07WGP8898",
+  "brand": "Visit the vivo Store",
+  "ean": "",
+  "price": "₹24,999",
+  "description": "8 GB RAM | 256 GB ROM 16.94 cm (6.67 inch) Full HD+ Display 50MP + 2MP | 16MP Front Camera 5000 mAh Battery Dimensity 7200 Processor",
+  "sellers": [
+    {
+      "seller": "Vardhman_Tele.",
+      "price": "₹24,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

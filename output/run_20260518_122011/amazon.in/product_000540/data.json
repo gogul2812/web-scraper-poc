@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "MOTOROLA G10 Power (64 GB) (4 GB RAM) (Breeze Blue)",
+  "product_url": "https://www.amazon.in/dp/B08ZDLVX9Q",
+  "brand": "Visit the Motorola Store",
+  "ean": "",
+  "price": "₹16,999",
+  "description": "unit_count: 1 Count, form_factor: smartphone, item_weight: 500, human_interface_input: Touch_Screen 4 GB RAM | 64 GB ROM 16.54 cm (6.51 inch) HD+ Display 48MP + 8MP + 2MP + 2MP | 8MP Front Camera 6000 mAh Battery Snapdragon 460 Processor Stock Android Experience | Think Shield Security",
+  "sellers": [
+    {
+      "seller": "Shop!House",
+      "price": "₹16,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

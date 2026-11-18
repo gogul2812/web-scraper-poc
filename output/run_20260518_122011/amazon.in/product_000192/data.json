@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Samsung Galaxy F06 5G, Lit Voilet (6GB, 128GB)",
+  "product_url": "https://www.amazon.in/dp/B0F8ZVRLZB",
+  "brand": "Visit the Samsung Store",
+  "ean": "",
+  "price": "₹15,499",
+  "description": "6 GB RAM | 128 GB ROM | Expandable Upto 1500 GB",
+  "sellers": [
+    {
+      "seller": "PREMIUM STOREY",
+      "price": "₹15,499"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "AI+ Pulse 2, 6.745 inch HD+ Display, 4GB RAM, 64GB Storage, 50MP Rear Camera, 6000mAh Battery, Android 16, Black",
+  "product_url": "https://www.amazon.in/dp/B0GXBHXKJF",
+  "brand": "Brand: AI+",
+  "ean": "",
+  "price": "₹10,999",
+  "description": "DISPLAY: 17.13 cm (6.745 inch) HD+ punch-hole display with 720 x 1600 pixels resolution and 260 ppi for clear visuals and immersive viewing experience. CAMERA: 50MP rear camera with LED flash and full HD recording capability, paired with 8MP front camera featuring LCD background lighting for quality photography. MEMORY & STORAGE: Available in 4GB RAM with 64GB storage or 6GB RAM with 128GB storage variants, expandable up to 1TB via dedicated memory card slot for ample space. PROCESSOR & BATTERY: Powered by Unisoc T7250 octa-core processor running at 1.8 GHz on Android 16, backed by robust 6000 mAh lithium polymer battery for extended usage. CONNECTIVITY & FEATURES: Dual SIM with 4G VoLTE support, Bluetooth V5.0, Wi-Fi hotspot, GPS, 3.5mm audio jack, IP64 rating, fingerprint sensor, and includes 10W charger with Type C cable and TPU case.",
+  "sellers": [
+    {
+      "seller": "Mobs Mart",
+      "price": "₹10,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

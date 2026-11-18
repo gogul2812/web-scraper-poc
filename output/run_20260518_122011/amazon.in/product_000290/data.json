@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "vivo T4X 5G, Glacial Teal (8GB, 128GB)",
+  "product_url": "https://www.amazon.in/dp/B0FV98ZH7F",
+  "brand": "Visit the vivo Store",
+  "ean": "",
+  "price": "₹19,499",
+  "description": "8 GB RAM | 128 GB ROM 17.07 cm (6.72 inch) Display 50MP + 2MP | 8MP Front Camera 6500 mAh Battery Dimensity 7300 5G Processor",
+  "sellers": [
+    {
+      "seller": "Myles!",
+      "price": "₹19,499"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Motorola Edge 70 (Lily Pad, 8GB RAM, 256GB Storage)",
+  "product_url": "https://www.amazon.in/dp/B0G75Q7TDP",
+  "brand": "Visit the Motorola Store",
+  "ean": "",
+  "price": "₹34,999",
+  "description": "Premium Design: Stylish PANTONE Lily Pad color with a sleek, modern look and comfortable in-hand feel Powerful Performance: 8 GB RAM ensures smooth multitasking and lag-free daily use Ample Storage: 256 GB internal storage for apps, photos, videos, and files Immersive Display: Edge-to-edge screen with vibrant colors for streaming and gaming Reliable Experience: Clean Android interface, capable camera system, and long-lasting battery",
+  "sellers": [
+    {
+      "seller": "The Pop Market",
+      "price": "₹34,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

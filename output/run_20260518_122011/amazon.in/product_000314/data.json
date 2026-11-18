@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "realme P4 Lite Smartphone, 4GB RAM, 128GB Storage, Sea Blue",
+  "product_url": "https://www.amazon.in/dp/B0GQTGLTX4",
+  "brand": "Visit the realme Store",
+  "ean": "",
+  "price": "₹13,999",
+  "description": "Military-Grade Protection: ArmorShell tough build with P4 Lite provides military-grade shock resistance, withstanding drops from up to 1.8 metres to keep your device safe from life's toughest moments Generous Storage Capacity: Equipped with 128GB internal storage and 4GB RAM, offering ample space for your apps, photos, videos, and files whilst ensuring smooth multitasking performance Elegant Design: Features a stunning Sea Blue colour finish with a sleek, modern aesthetic that combines style with durability for everyday use Advanced Camera System: Dual-camera setup with enhanced lens protection allows you to capture life's moments with clarity and precision Large Display: Immersive screen with waterdrop notch design delivers vibrant colours and excellent viewing experience for entertainment, browsing, and productivity Active Lifestyle Companion: Strong and resilient build designed to withstand demanding daily use and challenging environments while maintaining reliable performance",
+  "sellers": [
+    {
+      "seller": "Vardhman_Tele.",
+      "price": "₹13,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

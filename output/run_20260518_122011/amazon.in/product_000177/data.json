@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Motorola Edge 60 Fusion 5G (Pantone Mykonos Blue, 12GB RAM, 256GB Storage)",
+  "product_url": "https://www.amazon.in/dp/B0FL56GHPX",
+  "brand": "Visit the Motorola Store",
+  "ean": "",
+  "price": "₹27,999",
+  "description": "Premium Curved pOLED Display – Enjoy an immersive viewing experience with a large, vibrant curved pOLED screen and smooth high refresh rate for scrolling, gaming, and streaming.",
+  "sellers": [
+    {
+      "seller": "Gold-Enterprise",
+      "price": "₹27,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

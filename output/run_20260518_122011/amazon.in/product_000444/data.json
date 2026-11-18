@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Poco C85 5G Mystic Purple 8GB RAM 128GB ROM",
+  "product_url": "https://www.amazon.in/dp/B0GGRT6Z46",
+  "brand": "Brand: POCO",
+  "ean": "",
+  "price": "₹16,999",
+  "description": "Smartphone",
+  "sellers": [
+    {
+      "seller": "Myles!",
+      "price": "₹16,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

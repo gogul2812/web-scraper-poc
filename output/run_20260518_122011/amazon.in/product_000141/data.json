@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "vivo V70 5G (Passion Red, 12GB RAM, 256GB Storage)",
+  "product_url": "https://www.amazon.in/dp/B0GMPMPPQ9",
+  "brand": "Visit the vivo Store",
+  "ean": "",
+  "price": "₹79,999",
+  "description": "Rear Camera:50MP (ZEISS OIS main camera) + 50MP (ZEISS super telephoto camera) + 8MP (ZEISS ultra wide-angle camera)| Selfie Camera: 50 MP (ZEISS group selfie camera) 16.74 cm (6.59\" inch) Display Memory & SIM: 8GB RAM | 256GB internal memory 90W fast charging with 6500 mAh battery",
+  "sellers": [
+    {
+      "seller": "LiteStylez",
+      "price": "₹79,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

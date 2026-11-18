@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Nothing Phone 4a (8GB 256GB White)",
+  "product_url": "https://www.amazon.in/dp/B0GRD84RLF",
+  "brand": "Visit the Nothing Store",
+  "ean": "",
+  "price": "₹43,999",
+  "description": "8GB RAM + 256B",
+  "sellers": [
+    {
+      "seller": "Digital Trade Market",
+      "price": "₹43,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

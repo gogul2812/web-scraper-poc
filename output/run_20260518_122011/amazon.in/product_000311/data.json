@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Nothing Phone (4a) Pro (Black, 8GB, 256GB)",
+  "product_url": "https://www.amazon.in/dp/B0GRFX6Q7J",
+  "brand": "Visit the Nothing Store",
+  "ean": "",
+  "price": "₹52,999",
+  "description": "8GB + 256GB",
+  "sellers": [
+    {
+      "seller": "Rare speedex",
+      "price": "₹52,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

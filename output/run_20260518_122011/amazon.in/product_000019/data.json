@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Nothing Phone (3a) Lite (White, 128 GB) (8 GB RAM)",
+  "product_url": "https://www.amazon.in/dp/B0G47YZJH6",
+  "brand": "Visit the Nothing Store",
+  "ean": "",
+  "price": "₹319.00",
+  "description": "6.77-inch FHD+ 120Hz AMOLED display MediaTek Dimensity 7300 Pro processor, 8GB of RAM with virtual RAM expansion 5000mAh battery with 33W fast charging 50MP main rear camera with OIS Nothing OS 3.5 based on Android 15",
+  "sellers": [
+    {
+      "seller": "Unknown",
+      "price": "₹319.00"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

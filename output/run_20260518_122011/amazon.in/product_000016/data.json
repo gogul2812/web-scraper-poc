@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Samsung Galaxy F17 5G, Violet Pop (4GB, 128GB)",
+  "product_url": "https://www.amazon.in/dp/B0FT7K55SM",
+  "brand": "Visit the Samsung Store",
+  "ean": "",
+  "price": "₹17,999",
+  "description": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB 17.02 cm (6.7 inch) Full HD+ Display 50MP + 5MP | 13MP Front Camera 5000 mAh Battery Exynos 1330 Processor",
+  "sellers": [
+    {
+      "seller": "Rare speedex",
+      "price": "₹17,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Panasonic KX-TG3611BX Digital Cordless Landline Phone (Black)",
+  "product_url": "https://www.amazon.in/dp/B00LCX68HI",
+  "brand": "Visit the Panasonic Store",
+  "ean": "",
+  "price": "₹3,315.00",
+  "description": "Caller id cordless phone 2.4GHz frequency support AAA NI-MH battery providing talk-time of 5 hours and standby time of 264 hours",
+  "sellers": [
+    {
+      "seller": "Target A2Z",
+      "price": "₹3,315.00"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

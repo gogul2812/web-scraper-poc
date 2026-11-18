@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "vivo T5x 5G (Star Silver, 6GB RAM, 128GB Storage) | Dimensity 7400-Turbo | 50MP AI Camera | 7200mAh Battery | 6.76” FHD+ Display",
+  "product_url": "https://www.amazon.in/dp/B0GZ7BHVNS",
+  "brand": "Visit the vivo Store",
+  "ean": "",
+  "price": "₹28,999",
+  "description": "Smooth 5G Performance: MediaTek Dimensity 7400-Turbo processor with 2.6GHz clock speed for daily multitasking Efficient Memory Setup: 6GB RAM with 128GB storage for smooth apps and sufficient space AI Dual Camera: 50MP primary camera + 2MP depth sensor for clear photos and portraits Sharp Selfie Camera: 32MP front camera for high-quality selfies and video calls Large Display: 6.76-inch FHD+ display for immersive viewing and entertainment Long Battery Life: 7200mAh battery designed for extended usage with fast charging support",
+  "sellers": [
+    {
+      "seller": "Gold-Enterprise",
+      "price": "₹28,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "POCO M3 (POCO Yellow, 6GB RAM, 64GB Storage)",
+  "product_url": "https://www.amazon.in/dp/B08WJ9S2VG",
+  "brand": "Brand: XIAOMI",
+  "ean": "",
+  "price": "₹13,999",
+  "description": "X_POCOPHONEM3_6_64_YELLOW_INDIA",
+  "sellers": [
+    {
+      "seller": "Reachhh",
+      "price": "₹13,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

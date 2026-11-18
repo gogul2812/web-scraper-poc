@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Motorola Edge 60 Pro (Blue, 16+512)",
+  "product_url": "https://www.amazon.in/dp/B0FSTNHN2T",
+  "brand": "Visit the Motorola Store",
+  "ean": "",
+  "price": "₹49,999",
+  "description": "Immersive Display: Features a vibrant, high-quality display with smooth visuals for streaming, gaming, and everyday browsing.",
+  "sellers": [
+    {
+      "seller": "The Pop Market",
+      "price": "₹49,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

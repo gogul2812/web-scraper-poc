@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Samsung Galaxy F36 5G (Black, 128 GB) (8 GB RAM)",
+  "product_url": "https://www.amazon.in/dp/B0FT834QNK",
+  "brand": "Visit the Samsung Store",
+  "ean": "",
+  "price": "₹24,499",
+  "description": "Stunning Visuals: Enjoy a 6.7-inch Super AMOLED display with a 120Hz refresh rate and Gorilla Glass Victus+ for smooth, vivid viewing and extra durability. Smooth Performance: Powered by the Exynos 1380 processor with 8 GB RAM and 128 GB storage, perfect for multitasking, gaming, and daily tasks. Versatile Camera Setup: Capture every moment with a 50 MP main camera with OIS, an 8 MP ultra-wide, 2 MP macro, and a 13 MP front camera for great selfies. Long Battery Life: Equipped with a 5000 mAh battery and 25W fast charging, giving you all-day power with quick top-ups. Smart & Secure: Runs on Android 15 with One UI 7, includes AI-powered tools like Object Eraser, and offers 6 years of software & security updates.",
+  "sellers": [
+    {
+      "seller": "Gold-Enterprise",
+      "price": "₹24,499"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

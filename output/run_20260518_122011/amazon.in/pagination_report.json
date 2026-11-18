@@ -1,0 +1,3195 @@
+{
+  "total_pages_visited": 350,
+  "total_pages_logged": 353,
+  "pages_visited": [
+    {
+      "page": 1,
+      "url": "https://www.amazon.in/s?k=phone",
+      "records_found": 288,
+      "unique_added": 51,
+      "duplicates_on_page": 237,
+      "cumulative_scanned": 288,
+      "status": "ok"
+    },
+    {
+      "page": 2,
+      "url": "https://www.amazon.in/s?k=phone&page=2",
+      "records_found": 364,
+      "unique_added": 39,
+      "duplicates_on_page": 325,
+      "cumulative_scanned": 652,
+      "status": "ok"
+    },
+    {
+      "page": 3,
+      "url": "https://www.amazon.in/s?k=phone&page=3",
+      "records_found": 328,
+      "unique_added": 41,
+      "duplicates_on_page": 287,
+      "cumulative_scanned": 980,
+      "status": "ok"
+    },
+    {
+      "page": 4,
+      "url": "https://www.amazon.in/s?k=phone&page=4",
+      "records_found": 350,
+      "unique_added": 40,
+      "duplicates_on_page": 310,
+      "cumulative_scanned": 1330,
+      "status": "ok"
+    },
+    {
+      "page": 5,
+      "url": "https://www.amazon.in/s?k=phone&page=5",
+      "records_found": 336,
+      "unique_added": 34,
+      "duplicates_on_page": 302,
+      "cumulative_scanned": 1666,
+      "status": "ok"
+    },
+    {
+      "page": 6,
+      "url": "https://www.amazon.in/s?k=phone&page=6",
+      "records_found": 359,
+      "unique_added": 38,
+      "duplicates_on_page": 321,
+      "cumulative_scanned": 2025,
+      "status": "ok"
+    },
+    {
+      "page": 7,
+      "url": "https://www.amazon.in/s?k=phone&page=7",
+      "records_found": 298,
+      "unique_added": 25,
+      "duplicates_on_page": 273,
+      "cumulative_scanned": 2323,
+      "status": "ok"
+    },
+    {
+      "page": 8,
+      "url": "https://www.amazon.in/s?k=phone&page=8",
+      "records_found": 273,
+      "unique_added": 33,
+      "duplicates_on_page": 240,
+      "cumulative_scanned": 2596,
+      "status": "ok"
+    },
+    {
+      "page": 9,
+      "url": "https://www.amazon.in/s?k=phone&page=9",
+      "records_found": 319,
+      "unique_added": 26,
+      "duplicates_on_page": 293,
+      "cumulative_scanned": 2915,
+      "status": "ok"
+    },
+    {
+      "page": 10,
+      "url": "https://www.amazon.in/s?k=phone&page=10",
+      "records_found": 292,
+      "unique_added": 24,
+      "duplicates_on_page": 268,
+      "cumulative_scanned": 3207,
+      "status": "ok"
+    },
+    {
+      "page": 11,
+      "url": "https://www.amazon.in/s?k=phone&page=11",
+      "records_found": 275,
+      "unique_added": 24,
+      "duplicates_on_page": 251,
+      "cumulative_scanned": 3482,
+      "status": "ok"
+    },
+    {
+      "page": 12,
+      "url": "https://www.amazon.in/s?k=phone&page=12",
+      "records_found": 308,
+      "unique_added": 23,
+      "duplicates_on_page": 285,
+      "cumulative_scanned": 3790,
+      "status": "ok"
+    },
+    {
+      "page": 13,
+      "url": "https://www.amazon.in/s?k=phone&page=13",
+      "records_found": 236,
+      "unique_added": 16,
+      "duplicates_on_page": 220,
+      "cumulative_scanned": 4026,
+      "status": "ok"
+    },
+    {
+      "page": 14,
+      "url": "https://www.amazon.in/s?k=phone&page=14",
+      "records_found": 274,
+      "unique_added": 21,
+      "duplicates_on_page": 253,
+      "cumulative_scanned": 4300,
+      "status": "ok"
+    },
+    {
+      "page": 15,
+      "url": "https://www.amazon.in/s?k=phone&page=15",
+      "records_found": 241,
+      "unique_added": 19,
+      "duplicates_on_page": 222,
+      "cumulative_scanned": 4541,
+      "status": "ok"
+    },
+    {
+      "page": 16,
+      "url": "https://www.amazon.in/s?k=phone&page=16",
+      "records_found": 269,
+      "unique_added": 22,
+      "duplicates_on_page": 247,
+      "cumulative_scanned": 4810,
+      "status": "ok"
+    },
+    {
+      "page": 17,
+      "url": "https://www.amazon.in/s?k=phone&page=17",
+      "records_found": 302,
+      "unique_added": 27,
+      "duplicates_on_page": 275,
+      "cumulative_scanned": 5112,
+      "status": "ok"
+    },
+    {
+      "page": 18,
+      "url": "https://www.amazon.in/s?k=phone&page=18",
+      "records_found": 285,
+      "unique_added": 21,
+      "duplicates_on_page": 264,
+      "cumulative_scanned": 5397,
+      "status": "ok"
+    },
+    {
+      "page": 19,
+      "url": "https://www.amazon.in/s?k=phone&page=19",
+      "records_found": 309,
+      "unique_added": 32,
+      "duplicates_on_page": 277,
+      "cumulative_scanned": 5706,
+      "status": "ok"
+    },
+    {
+      "page": 20,
+      "url": "https://www.amazon.in/s?k=phone&page=20",
+      "records_found": 150,
+      "unique_added": 7,
+      "duplicates_on_page": 143,
+      "cumulative_scanned": 5856,
+      "status": "ok"
+    },
+    {
+      "page": 21,
+      "url": "https://www.amazon.in/s?k=phone&page=21",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 5944,
+      "status": "ok"
+    },
+    {
+      "page": 22,
+      "url": "https://www.amazon.in/s?k=phone&page=22",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 6041,
+      "status": "ok"
+    },
+    {
+      "page": 23,
+      "url": "https://www.amazon.in/s?k=phone&page=23",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 6129,
+      "status": "ok"
+    },
+    {
+      "page": 24,
+      "url": "https://www.amazon.in/s?k=phone&page=24",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 6229,
+      "status": "ok"
+    },
+    {
+      "page": 25,
+      "url": "https://www.amazon.in/s?k=phone&page=25",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 6317,
+      "status": "ok"
+    },
+    {
+      "page": 26,
+      "url": "https://www.amazon.in/s?k=phone&page=26",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 6426,
+      "status": "ok"
+    },
+    {
+      "page": 27,
+      "url": "https://www.amazon.in/s?k=phone&page=27",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 6523,
+      "status": "ok"
+    },
+    {
+      "page": 28,
+      "url": "https://www.amazon.in/s?k=phone&page=28",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 6635,
+      "status": "ok"
+    },
+    {
+      "page": 29,
+      "url": "https://www.amazon.in/s?k=phone&page=29",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 6723,
+      "status": "ok"
+    },
+    {
+      "page": 30,
+      "url": "https://www.amazon.in/s?k=phone&page=30",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 6820,
+      "status": "ok"
+    },
+    {
+      "page": 31,
+      "url": "https://www.amazon.in/s?k=phone&page=31",
+      "records_found": 85,
+      "unique_added": 0,
+      "duplicates_on_page": 85,
+      "cumulative_scanned": 6905,
+      "status": "ok"
+    },
+    {
+      "page": 32,
+      "url": "https://www.amazon.in/s?k=phone&page=32",
+      "records_found": 112,
+      "unique_added": 1,
+      "duplicates_on_page": 111,
+      "cumulative_scanned": 7017,
+      "status": "ok"
+    },
+    {
+      "page": 33,
+      "url": "https://www.amazon.in/s?k=phone&page=33",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 7114,
+      "status": "ok"
+    },
+    {
+      "page": 34,
+      "url": "https://www.amazon.in/s?k=phone&page=34",
+      "records_found": 45,
+      "unique_added": 0,
+      "duplicates_on_page": 45,
+      "cumulative_scanned": 7159,
+      "status": "ok"
+    },
+    {
+      "page": 35,
+      "url": "https://www.amazon.in/s?k=phone&page=35",
+      "records_found": 88,
+      "unique_added": 1,
+      "duplicates_on_page": 87,
+      "cumulative_scanned": 7247,
+      "status": "ok"
+    },
+    {
+      "page": 36,
+      "url": "https://www.amazon.in/s?k=phone&page=36",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 7347,
+      "status": "ok"
+    },
+    {
+      "page": 37,
+      "url": "https://www.amazon.in/s?k=phone&page=37",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 7411,
+      "status": "ok"
+    },
+    {
+      "page": 38,
+      "url": "https://www.amazon.in/s?k=phone&page=38",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 7508,
+      "status": "ok"
+    },
+    {
+      "page": 39,
+      "url": "https://www.amazon.in/s?k=phone&page=39",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 7572,
+      "status": "ok"
+    },
+    {
+      "page": 40,
+      "url": "https://www.amazon.in/s?k=phone&page=40",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 7672,
+      "status": "ok"
+    },
+    {
+      "page": 41,
+      "url": "https://www.amazon.in/s?k=phone&page=41",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 7736,
+      "status": "ok"
+    },
+    {
+      "page": 42,
+      "url": "https://www.amazon.in/s?k=phone&page=42",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 7833,
+      "status": "ok"
+    },
+    {
+      "page": 43,
+      "url": "https://www.amazon.in/s?k=phone&page=43",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 7897,
+      "status": "ok"
+    },
+    {
+      "page": 44,
+      "url": "https://www.amazon.in/s?k=phone&page=44",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 7997,
+      "status": "ok"
+    },
+    {
+      "page": 45,
+      "url": "https://www.amazon.in/s?k=phone&page=45",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 8061,
+      "status": "ok"
+    },
+    {
+      "page": 46,
+      "url": "https://www.amazon.in/s?k=phone&page=46",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 8158,
+      "status": "ok"
+    },
+    {
+      "page": 47,
+      "url": "https://www.amazon.in/s?k=phone&page=47",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 8222,
+      "status": "ok"
+    },
+    {
+      "page": 48,
+      "url": "https://www.amazon.in/s?k=phone&page=48",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 8322,
+      "status": "ok"
+    },
+    {
+      "page": 49,
+      "url": "https://www.amazon.in/s?k=phone&page=49",
+      "records_found": 64,
+      "unique_added": 1,
+      "duplicates_on_page": 63,
+      "cumulative_scanned": 8386,
+      "status": "ok"
+    },
+    {
+      "page": 50,
+      "url": "https://www.amazon.in/s?k=phone&page=50",
+      "records_found": 100,
+      "unique_added": 1,
+      "duplicates_on_page": 99,
+      "cumulative_scanned": 8486,
+      "status": "ok"
+    },
+    {
+      "page": 51,
+      "url": "https://www.amazon.in/s?k=phone&page=51",
+      "records_found": 64,
+      "unique_added": 1,
+      "duplicates_on_page": 63,
+      "cumulative_scanned": 8550,
+      "status": "ok"
+    },
+    {
+      "page": 52,
+      "url": "https://www.amazon.in/s?k=phone&page=52",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 8650,
+      "status": "ok"
+    },
+    {
+      "page": 53,
+      "url": "https://www.amazon.in/s?k=phone&page=53",
+      "records_found": 73,
+      "unique_added": 0,
+      "duplicates_on_page": 73,
+      "cumulative_scanned": 8723,
+      "status": "ok"
+    },
+    {
+      "page": 54,
+      "url": "https://www.amazon.in/s?k=phone&page=54",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 8832,
+      "status": "ok"
+    },
+    {
+      "page": 55,
+      "url": "https://www.amazon.in/s?k=phone&page=55",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 8896,
+      "status": "ok"
+    },
+    {
+      "page": 56,
+      "url": "https://www.amazon.in/s?k=phone&page=56",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 9008,
+      "status": "ok"
+    },
+    {
+      "page": 57,
+      "url": "https://www.amazon.in/s?k=phone&page=57",
+      "records_found": 73,
+      "unique_added": 0,
+      "duplicates_on_page": 73,
+      "cumulative_scanned": 9081,
+      "status": "ok"
+    },
+    {
+      "page": 58,
+      "url": "https://www.amazon.in/s?k=phone&page=58",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 9178,
+      "status": "ok"
+    },
+    {
+      "page": 59,
+      "url": "https://www.amazon.in/s?k=phone&page=59",
+      "records_found": 73,
+      "unique_added": 1,
+      "duplicates_on_page": 72,
+      "cumulative_scanned": 9251,
+      "status": "ok"
+    },
+    {
+      "page": 60,
+      "url": "https://www.amazon.in/s?k=phone&page=60",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 9351,
+      "status": "ok"
+    },
+    {
+      "page": 61,
+      "url": "https://www.amazon.in/s?k=phone&page=61",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 9415,
+      "status": "ok"
+    },
+    {
+      "page": 62,
+      "url": "https://www.amazon.in/s?k=phone&page=62",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 9515,
+      "status": "ok"
+    },
+    {
+      "page": 63,
+      "url": "https://www.amazon.in/s?k=phone&page=63",
+      "records_found": 76,
+      "unique_added": 0,
+      "duplicates_on_page": 76,
+      "cumulative_scanned": 9591,
+      "status": "ok"
+    },
+    {
+      "page": 64,
+      "url": "https://www.amazon.in/s?k=phone&page=64",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 9691,
+      "status": "ok"
+    },
+    {
+      "page": 65,
+      "url": "https://www.amazon.in/s?k=phone&page=65",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 9755,
+      "status": "ok"
+    },
+    {
+      "page": 66,
+      "url": "https://www.amazon.in/s?k=phone&page=66",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 9864,
+      "status": "ok"
+    },
+    {
+      "page": 67,
+      "url": "https://www.amazon.in/s?k=phone&page=67",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 9928,
+      "status": "ok"
+    },
+    {
+      "page": 68,
+      "url": "https://www.amazon.in/s?k=phone&page=68",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 10028,
+      "status": "ok"
+    },
+    {
+      "page": 69,
+      "url": "https://www.amazon.in/s?k=phone&page=69",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 10092,
+      "status": "ok"
+    },
+    {
+      "page": 70,
+      "url": "https://www.amazon.in/s?k=phone&page=70",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 10192,
+      "status": "ok"
+    },
+    {
+      "page": 71,
+      "url": "https://www.amazon.in/s?k=phone&page=71",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 10280,
+      "status": "ok"
+    },
+    {
+      "page": 72,
+      "url": "https://www.amazon.in/s?k=phone&page=72",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 10380,
+      "status": "ok"
+    },
+    {
+      "page": 73,
+      "url": "https://www.amazon.in/s?k=phone&page=73",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 10468,
+      "status": "ok"
+    },
+    {
+      "page": 74,
+      "url": "https://www.amazon.in/s?k=phone&page=74",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 10568,
+      "status": "ok"
+    },
+    {
+      "page": 75,
+      "url": "https://www.amazon.in/s?k=phone&page=75",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 10668,
+      "status": "ok"
+    },
+    {
+      "page": 76,
+      "url": "https://www.amazon.in/s?k=phone&page=76",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 10768,
+      "status": "ok"
+    },
+    {
+      "page": 77,
+      "url": "https://www.amazon.in/s?k=phone&page=77",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 10856,
+      "status": "ok"
+    },
+    {
+      "page": 78,
+      "url": "https://www.amazon.in/s?k=phone&page=78",
+      "records_found": 109,
+      "unique_added": 1,
+      "duplicates_on_page": 108,
+      "cumulative_scanned": 10965,
+      "status": "ok"
+    },
+    {
+      "page": 79,
+      "url": "https://www.amazon.in/s?k=phone&page=79",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 11062,
+      "status": "ok"
+    },
+    {
+      "page": 80,
+      "url": "https://www.amazon.in/s?k=phone&page=80",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 11162,
+      "status": "ok"
+    },
+    {
+      "page": 81,
+      "url": "https://www.amazon.in/s?k=phone&page=81",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 11250,
+      "status": "ok"
+    },
+    {
+      "page": 82,
+      "url": "https://www.amazon.in/s?k=phone&page=82",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 11350,
+      "status": "ok"
+    },
+    {
+      "page": 83,
+      "url": "https://www.amazon.in/s?k=phone&page=83",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 11438,
+      "status": "ok"
+    },
+    {
+      "page": 84,
+      "url": "https://www.amazon.in/s?k=phone&page=84",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 11538,
+      "status": "ok"
+    },
+    {
+      "page": 85,
+      "url": "https://www.amazon.in/s?k=phone&page=85",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 11626,
+      "status": "ok"
+    },
+    {
+      "page": 86,
+      "url": "https://www.amazon.in/s?k=phone&page=86",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 11738,
+      "status": "ok"
+    },
+    {
+      "page": 87,
+      "url": "https://www.amazon.in/s?k=phone&page=87",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 11826,
+      "status": "ok"
+    },
+    {
+      "page": 88,
+      "url": "https://www.amazon.in/s?k=phone&page=88",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 11926,
+      "status": "ok"
+    },
+    {
+      "page": 89,
+      "url": "https://www.amazon.in/s?k=phone&page=89",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 12014,
+      "status": "ok"
+    },
+    {
+      "page": 90,
+      "url": "https://www.amazon.in/s?k=phone&page=90",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 12114,
+      "status": "ok"
+    },
+    {
+      "page": 91,
+      "url": "https://www.amazon.in/s?k=phone&page=91",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 12202,
+      "status": "ok"
+    },
+    {
+      "page": 92,
+      "url": "https://www.amazon.in/s?k=phone&page=92",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 12314,
+      "status": "ok"
+    },
+    {
+      "page": 93,
+      "url": "https://www.amazon.in/s?k=phone&page=93",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 12411,
+      "status": "ok"
+    },
+    {
+      "page": 94,
+      "url": "https://www.amazon.in/s?k=phone&page=94",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 12511,
+      "status": "ok"
+    },
+    {
+      "page": 95,
+      "url": "https://www.amazon.in/s?k=phone&page=95",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 12599,
+      "status": "ok"
+    },
+    {
+      "page": 96,
+      "url": "https://www.amazon.in/s?k=phone&page=96",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 12699,
+      "status": "ok"
+    },
+    {
+      "page": 97,
+      "url": "https://www.amazon.in/s?k=phone&page=97",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 12799,
+      "status": "ok"
+    },
+    {
+      "page": 98,
+      "url": "https://www.amazon.in/s?k=phone&page=98",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 12899,
+      "status": "ok"
+    },
+    {
+      "page": 99,
+      "url": "https://www.amazon.in/s?k=phone&page=99",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 12999,
+      "status": "ok"
+    },
+    {
+      "page": 100,
+      "url": "https://www.amazon.in/s?k=phone&page=100",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 13099,
+      "status": "ok"
+    },
+    {
+      "page": 101,
+      "url": "https://www.amazon.in/s?k=phone&page=101",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 13187,
+      "status": "ok"
+    },
+    {
+      "page": 102,
+      "url": "https://www.amazon.in/s?k=phone&page=102",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 13287,
+      "status": "ok"
+    },
+    {
+      "page": 103,
+      "url": "https://www.amazon.in/s?k=phone&page=103",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 13375,
+      "status": "ok"
+    },
+    {
+      "page": 104,
+      "url": "https://www.amazon.in/s?k=phone&page=104",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 13475,
+      "status": "ok"
+    },
+    {
+      "page": 105,
+      "url": "https://www.amazon.in/s?k=phone&page=105",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 13572,
+      "status": "ok"
+    },
+    {
+      "page": 106,
+      "url": "https://www.amazon.in/s?k=phone&page=106",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 13681,
+      "status": "ok"
+    },
+    {
+      "page": 107,
+      "url": "https://www.amazon.in/s?k=phone&page=107",
+      "records_found": 88,
+      "unique_added": 1,
+      "duplicates_on_page": 87,
+      "cumulative_scanned": 13769,
+      "status": "ok"
+    },
+    {
+      "page": 108,
+      "url": "https://www.amazon.in/s?k=phone&page=108",
+      "records_found": 100,
+      "unique_added": 1,
+      "duplicates_on_page": 99,
+      "cumulative_scanned": 13869,
+      "status": "ok"
+    },
+    {
+      "page": 109,
+      "url": "https://www.amazon.in/s?k=phone&page=109",
+      "records_found": 88,
+      "unique_added": 1,
+      "duplicates_on_page": 87,
+      "cumulative_scanned": 13957,
+      "status": "ok"
+    },
+    {
+      "page": 110,
+      "url": "https://www.amazon.in/s?k=phone&page=110",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 14057,
+      "status": "ok"
+    },
+    {
+      "page": 111,
+      "url": "https://www.amazon.in/s?k=phone&page=111",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 14145,
+      "status": "ok"
+    },
+    {
+      "page": 112,
+      "url": "https://www.amazon.in/s?k=phone&page=112",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 14257,
+      "status": "ok"
+    },
+    {
+      "page": 113,
+      "url": "https://www.amazon.in/s?k=phone&page=113",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 14357,
+      "status": "ok"
+    },
+    {
+      "page": 114,
+      "url": "https://www.amazon.in/s?k=phone&page=114",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 14457,
+      "status": "ok"
+    },
+    {
+      "page": 115,
+      "url": "https://www.amazon.in/s?k=phone&page=115",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 14545,
+      "status": "ok"
+    },
+    {
+      "page": 116,
+      "url": "https://www.amazon.in/s?k=phone&page=116",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 14645,
+      "status": "ok"
+    },
+    {
+      "page": 117,
+      "url": "https://www.amazon.in/s?k=phone&page=117",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 14733,
+      "status": "ok"
+    },
+    {
+      "page": 118,
+      "url": "https://www.amazon.in/s?k=phone&page=118",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 14833,
+      "status": "ok"
+    },
+    {
+      "page": 119,
+      "url": "https://www.amazon.in/s?k=phone&page=119",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 14933,
+      "status": "ok"
+    },
+    {
+      "page": 120,
+      "url": "https://www.amazon.in/s?k=phone&page=120",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 15033,
+      "status": "ok"
+    },
+    {
+      "page": 121,
+      "url": "https://www.amazon.in/s?k=phone&page=121",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 15130,
+      "status": "ok"
+    },
+    {
+      "page": 122,
+      "url": "https://www.amazon.in/s?k=phone&page=122",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 15230,
+      "status": "ok"
+    },
+    {
+      "page": 123,
+      "url": "https://www.amazon.in/s?k=phone&page=123",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 15330,
+      "status": "ok"
+    },
+    {
+      "page": 124,
+      "url": "https://www.amazon.in/s?k=phone&page=124",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 15439,
+      "status": "ok"
+    },
+    {
+      "page": 125,
+      "url": "https://www.amazon.in/s?k=phone&page=125",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 15527,
+      "status": "ok"
+    },
+    {
+      "page": 126,
+      "url": "https://www.amazon.in/s?k=phone&page=126",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 15627,
+      "status": "ok"
+    },
+    {
+      "page": 127,
+      "url": "https://www.amazon.in/s?k=phone&page=127",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 15715,
+      "status": "ok"
+    },
+    {
+      "page": 128,
+      "url": "https://www.amazon.in/s?k=phone&page=128",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 15827,
+      "status": "ok"
+    },
+    {
+      "page": 129,
+      "url": "https://www.amazon.in/s?k=phone&page=129",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 15924,
+      "status": "ok"
+    },
+    {
+      "page": 130,
+      "url": "https://www.amazon.in/s?k=phone&page=130",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 16033,
+      "status": "ok"
+    },
+    {
+      "page": 131,
+      "url": "https://www.amazon.in/s?k=phone&page=131",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 16121,
+      "status": "ok"
+    },
+    {
+      "page": 132,
+      "url": "https://www.amazon.in/s?k=phone&page=132",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 16221,
+      "status": "ok"
+    },
+    {
+      "page": 133,
+      "url": "https://www.amazon.in/s?k=phone&page=133",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 16309,
+      "status": "ok"
+    },
+    {
+      "page": 134,
+      "url": "https://www.amazon.in/s?k=phone&page=134",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 16409,
+      "status": "ok"
+    },
+    {
+      "page": 135,
+      "url": "https://www.amazon.in/s?k=phone&page=135",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 16497,
+      "status": "ok"
+    },
+    {
+      "page": 136,
+      "url": "https://www.amazon.in/s?k=phone&page=136",
+      "records_found": 48,
+      "unique_added": 0,
+      "duplicates_on_page": 48,
+      "cumulative_scanned": 16545,
+      "status": "ok"
+    },
+    {
+      "page": 137,
+      "url": "https://www.amazon.in/s?k=phone&page=137",
+      "records_found": 85,
+      "unique_added": 0,
+      "duplicates_on_page": 85,
+      "cumulative_scanned": 16630,
+      "status": "ok"
+    },
+    {
+      "page": 138,
+      "url": "https://www.amazon.in/s?k=phone&page=138",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 16742,
+      "status": "ok"
+    },
+    {
+      "page": 139,
+      "url": "https://www.amazon.in/s?k=phone&page=139",
+      "records_found": 61,
+      "unique_added": 0,
+      "duplicates_on_page": 61,
+      "cumulative_scanned": 16803,
+      "status": "ok"
+    },
+    {
+      "page": 140,
+      "url": "https://www.amazon.in/s?k=phone&page=140",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 16903,
+      "status": "ok"
+    },
+    {
+      "page": 141,
+      "url": "https://www.amazon.in/s?k=phone&page=141",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 16967,
+      "status": "ok"
+    },
+    {
+      "page": 142,
+      "url": "https://www.amazon.in/s?k=phone&page=142",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 17076,
+      "status": "ok"
+    },
+    {
+      "page": 143,
+      "url": "https://www.amazon.in/s?k=phone&page=143",
+      "records_found": 73,
+      "unique_added": 0,
+      "duplicates_on_page": 73,
+      "cumulative_scanned": 17149,
+      "status": "ok"
+    },
+    {
+      "page": 144,
+      "url": "https://www.amazon.in/s?k=phone&page=144",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 17258,
+      "status": "ok"
+    },
+    {
+      "page": 145,
+      "url": "https://www.amazon.in/s?k=phone&page=145",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 17322,
+      "status": "ok"
+    },
+    {
+      "page": 146,
+      "url": "https://www.amazon.in/s?k=phone&page=146",
+      "records_found": 94,
+      "unique_added": 0,
+      "duplicates_on_page": 94,
+      "cumulative_scanned": 17416,
+      "status": "ok"
+    },
+    {
+      "page": 147,
+      "url": "https://www.amazon.in/s?k=phone&page=147",
+      "records_found": 76,
+      "unique_added": 0,
+      "duplicates_on_page": 76,
+      "cumulative_scanned": 17492,
+      "status": "ok"
+    },
+    {
+      "page": 148,
+      "url": "https://www.amazon.in/s?k=phone&page=148",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 17592,
+      "status": "ok"
+    },
+    {
+      "page": 149,
+      "url": "https://www.amazon.in/s?k=phone&page=149",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 17656,
+      "status": "ok"
+    },
+    {
+      "page": 150,
+      "url": "https://www.amazon.in/s?k=phone&page=150",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 17765,
+      "status": "ok"
+    },
+    {
+      "page": 151,
+      "url": "https://www.amazon.in/s?k=phone&page=151",
+      "records_found": 73,
+      "unique_added": 0,
+      "duplicates_on_page": 73,
+      "cumulative_scanned": 17838,
+      "status": "ok"
+    },
+    {
+      "page": 152,
+      "url": "https://www.amazon.in/s?k=phone&page=152",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 17938,
+      "status": "ok"
+    },
+    {
+      "page": 153,
+      "url": "https://www.amazon.in/s?k=phone&page=153",
+      "records_found": 76,
+      "unique_added": 1,
+      "duplicates_on_page": 75,
+      "cumulative_scanned": 18014,
+      "status": "ok"
+    },
+    {
+      "page": 154,
+      "url": "https://www.amazon.in/s?k=phone&page=154",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 18111,
+      "status": "ok"
+    },
+    {
+      "page": 155,
+      "url": "https://www.amazon.in/s?k=phone&page=155",
+      "records_found": 61,
+      "unique_added": 0,
+      "duplicates_on_page": 61,
+      "cumulative_scanned": 18172,
+      "status": "ok"
+    },
+    {
+      "page": 156,
+      "url": "https://www.amazon.in/s?k=phone&page=156",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 18272,
+      "status": "ok"
+    },
+    {
+      "page": 157,
+      "url": "https://www.amazon.in/s?k=phone&page=157",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 18336,
+      "status": "ok"
+    },
+    {
+      "page": 158,
+      "url": "https://www.amazon.in/s?k=phone&page=158",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 18433,
+      "status": "ok"
+    },
+    {
+      "page": 159,
+      "url": "https://www.amazon.in/s?k=phone&page=159",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 18497,
+      "status": "ok"
+    },
+    {
+      "page": 160,
+      "url": "https://www.amazon.in/s?k=phone&page=160",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 18609,
+      "status": "ok"
+    },
+    {
+      "page": 161,
+      "url": "https://www.amazon.in/s?k=phone&page=161",
+      "records_found": 73,
+      "unique_added": 0,
+      "duplicates_on_page": 73,
+      "cumulative_scanned": 18682,
+      "status": "ok"
+    },
+    {
+      "page": 162,
+      "url": "https://www.amazon.in/s?k=phone&page=162",
+      "records_found": 106,
+      "unique_added": 0,
+      "duplicates_on_page": 106,
+      "cumulative_scanned": 18788,
+      "status": "ok"
+    },
+    {
+      "page": 163,
+      "url": "https://www.amazon.in/s?k=phone&page=163",
+      "records_found": 73,
+      "unique_added": 0,
+      "duplicates_on_page": 73,
+      "cumulative_scanned": 18861,
+      "status": "ok"
+    },
+    {
+      "page": 164,
+      "url": "https://www.amazon.in/s?k=phone&page=164",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 18973,
+      "status": "ok"
+    },
+    {
+      "page": 165,
+      "url": "https://www.amazon.in/s?k=phone&page=165",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 19037,
+      "status": "ok"
+    },
+    {
+      "page": 166,
+      "url": "https://www.amazon.in/s?k=phone&page=166",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 19134,
+      "status": "ok"
+    },
+    {
+      "page": 167,
+      "url": "https://www.amazon.in/s?k=phone&page=167",
+      "records_found": 76,
+      "unique_added": 0,
+      "duplicates_on_page": 76,
+      "cumulative_scanned": 19210,
+      "status": "ok"
+    },
+    {
+      "page": 168,
+      "url": "https://www.amazon.in/s?k=phone&page=168",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 19310,
+      "status": "ok"
+    },
+    {
+      "page": 169,
+      "url": "https://www.amazon.in/s?k=phone&page=169",
+      "records_found": 76,
+      "unique_added": 0,
+      "duplicates_on_page": 76,
+      "cumulative_scanned": 19386,
+      "status": "ok"
+    },
+    {
+      "page": 170,
+      "url": "https://www.amazon.in/s?k=phone&page=170",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 19483,
+      "status": "ok"
+    },
+    {
+      "page": 171,
+      "url": "https://www.amazon.in/s?k=phone&page=171",
+      "records_found": 73,
+      "unique_added": 1,
+      "duplicates_on_page": 72,
+      "cumulative_scanned": 19556,
+      "status": "ok"
+    },
+    {
+      "page": 172,
+      "url": "https://www.amazon.in/s?k=phone&page=172",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 19665,
+      "status": "ok"
+    },
+    {
+      "page": 173,
+      "url": "https://www.amazon.in/s?k=phone&page=173",
+      "records_found": 76,
+      "unique_added": 0,
+      "duplicates_on_page": 76,
+      "cumulative_scanned": 19741,
+      "status": "ok"
+    },
+    {
+      "page": 174,
+      "url": "https://www.amazon.in/s?k=phone&page=174",
+      "records_found": 106,
+      "unique_added": 0,
+      "duplicates_on_page": 106,
+      "cumulative_scanned": 19847,
+      "status": "ok"
+    },
+    {
+      "page": 175,
+      "url": "https://www.amazon.in/s?k=phone&page=175",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 19911,
+      "status": "ok"
+    },
+    {
+      "page": 176,
+      "url": "https://www.amazon.in/s?k=phone&page=176",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 20011,
+      "status": "ok"
+    },
+    {
+      "page": 177,
+      "url": "https://www.amazon.in/s?k=phone&page=177",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 20075,
+      "status": "ok"
+    },
+    {
+      "page": 178,
+      "url": "https://www.amazon.in/s?k=phone&page=178",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 20184,
+      "status": "ok"
+    },
+    {
+      "page": 179,
+      "url": "https://www.amazon.in/s?k=phone&page=179",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 20248,
+      "status": "ok"
+    },
+    {
+      "page": 180,
+      "url": "https://www.amazon.in/s?k=phone&page=180",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 20357,
+      "status": "ok"
+    },
+    {
+      "page": 181,
+      "url": "https://www.amazon.in/s?k=phone&page=181",
+      "records_found": 73,
+      "unique_added": 0,
+      "duplicates_on_page": 73,
+      "cumulative_scanned": 20430,
+      "status": "ok"
+    },
+    {
+      "page": 182,
+      "url": "https://www.amazon.in/s?k=phone&page=182",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 20539,
+      "status": "ok"
+    },
+    {
+      "page": 183,
+      "url": "https://www.amazon.in/s?k=phone&page=183",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 20603,
+      "status": "ok"
+    },
+    {
+      "page": 184,
+      "url": "https://www.amazon.in/s?k=phone&page=184",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 20715,
+      "status": "ok"
+    },
+    {
+      "page": 185,
+      "url": "https://www.amazon.in/s?k=phone&page=185",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 20779,
+      "status": "ok"
+    },
+    {
+      "page": 186,
+      "url": "https://www.amazon.in/s?k=phone&page=186",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 20888,
+      "status": "ok"
+    },
+    {
+      "page": 187,
+      "url": "https://www.amazon.in/s?k=phone&page=187",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 20952,
+      "status": "ok"
+    },
+    {
+      "page": 188,
+      "url": "https://www.amazon.in/s?k=phone&page=188",
+      "records_found": 100,
+      "unique_added": 1,
+      "duplicates_on_page": 99,
+      "cumulative_scanned": 21052,
+      "status": "ok"
+    },
+    {
+      "page": 189,
+      "url": "https://www.amazon.in/s?k=phone&page=189",
+      "records_found": 64,
+      "unique_added": 0,
+      "duplicates_on_page": 64,
+      "cumulative_scanned": 21116,
+      "status": "ok"
+    },
+    {
+      "page": 190,
+      "url": "https://www.amazon.in/s?k=phone&page=190",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 21213,
+      "status": "ok"
+    },
+    {
+      "page": 191,
+      "url": "https://www.amazon.in/s?k=phone&page=191",
+      "records_found": 76,
+      "unique_added": 0,
+      "duplicates_on_page": 76,
+      "cumulative_scanned": 21289,
+      "status": "ok"
+    },
+    {
+      "page": 192,
+      "url": "https://www.amazon.in/s?k=phone&page=192",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 21389,
+      "status": "ok"
+    },
+    {
+      "page": 193,
+      "url": "https://www.amazon.in/s?k=phone&page=193",
+      "records_found": 76,
+      "unique_added": 0,
+      "duplicates_on_page": 76,
+      "cumulative_scanned": 21465,
+      "status": "ok"
+    },
+    {
+      "page": 194,
+      "url": "https://www.amazon.in/s?k=phone&page=194",
+      "records_found": 106,
+      "unique_added": 0,
+      "duplicates_on_page": 106,
+      "cumulative_scanned": 21571,
+      "status": "ok"
+    },
+    {
+      "page": 195,
+      "url": "https://www.amazon.in/s?k=phone&page=195",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 21659,
+      "status": "ok"
+    },
+    {
+      "page": 196,
+      "url": "https://www.amazon.in/s?k=phone&page=196",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 21759,
+      "status": "ok"
+    },
+    {
+      "page": 197,
+      "url": "https://www.amazon.in/s?k=phone&page=197",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 21847,
+      "status": "ok"
+    },
+    {
+      "page": 198,
+      "url": "https://www.amazon.in/s?k=phone&page=198",
+      "records_found": 106,
+      "unique_added": 0,
+      "duplicates_on_page": 106,
+      "cumulative_scanned": 21953,
+      "status": "ok"
+    },
+    {
+      "page": 199,
+      "url": "https://www.amazon.in/s?k=phone&page=199",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 22041,
+      "status": "ok"
+    },
+    {
+      "page": 200,
+      "url": "https://www.amazon.in/s?k=phone&page=200",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 22141,
+      "status": "ok"
+    },
+    {
+      "page": 201,
+      "url": "https://www.amazon.in/s?k=phone&page=201",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 22229,
+      "status": "ok"
+    },
+    {
+      "page": 202,
+      "url": "https://www.amazon.in/s?k=phone&page=202",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 22338,
+      "status": "ok"
+    },
+    {
+      "page": 203,
+      "url": "https://www.amazon.in/s?k=phone&page=203",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 22426,
+      "status": "ok"
+    },
+    {
+      "page": 204,
+      "url": "https://www.amazon.in/s?k=phone&page=204",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 22526,
+      "status": "ok"
+    },
+    {
+      "page": 205,
+      "url": "https://www.amazon.in/s?k=phone&page=205",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 22626,
+      "status": "ok"
+    },
+    {
+      "page": 206,
+      "url": "https://www.amazon.in/s?k=phone&page=206",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 22723,
+      "status": "ok"
+    },
+    {
+      "page": 207,
+      "url": "https://www.amazon.in/s?k=phone&page=207",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 22811,
+      "status": "ok"
+    },
+    {
+      "page": 208,
+      "url": "https://www.amazon.in/s?k=phone&page=208",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 22923,
+      "status": "ok"
+    },
+    {
+      "page": 209,
+      "url": "https://www.amazon.in/s?k=phone&page=209",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 23011,
+      "status": "ok"
+    },
+    {
+      "page": 210,
+      "url": "https://www.amazon.in/s?k=phone&page=210",
+      "records_found": 106,
+      "unique_added": 0,
+      "duplicates_on_page": 106,
+      "cumulative_scanned": 23117,
+      "status": "ok"
+    },
+    {
+      "page": 211,
+      "url": "https://www.amazon.in/s?k=phone&page=211",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 23205,
+      "status": "ok"
+    },
+    {
+      "page": 212,
+      "url": "https://www.amazon.in/s?k=phone&page=212",
+      "records_found": 109,
+      "unique_added": 1,
+      "duplicates_on_page": 108,
+      "cumulative_scanned": 23314,
+      "status": "ok"
+    },
+    {
+      "page": 213,
+      "url": "https://www.amazon.in/s?k=phone&page=213",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 23402,
+      "status": "ok"
+    },
+    {
+      "page": 214,
+      "url": "https://www.amazon.in/s?k=phone&page=214",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 23499,
+      "status": "ok"
+    },
+    {
+      "page": 215,
+      "url": "https://www.amazon.in/s?k=phone&page=215",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 23587,
+      "status": "ok"
+    },
+    {
+      "page": 216,
+      "url": "https://www.amazon.in/s?k=phone&page=216",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 23699,
+      "status": "ok"
+    },
+    {
+      "page": 217,
+      "url": "https://www.amazon.in/s?k=phone&page=217",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 23787,
+      "status": "ok"
+    },
+    {
+      "page": 218,
+      "url": "https://www.amazon.in/s?k=phone&page=218",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 23884,
+      "status": "ok"
+    },
+    {
+      "page": 219,
+      "url": "https://www.amazon.in/s?k=phone&page=219",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 23972,
+      "status": "ok"
+    },
+    {
+      "page": 220,
+      "url": "https://www.amazon.in/s?k=phone&page=220",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 24081,
+      "status": "ok"
+    },
+    {
+      "page": 221,
+      "url": "https://www.amazon.in/s?k=phone&page=221",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 24178,
+      "status": "ok"
+    },
+    {
+      "page": 222,
+      "url": "https://www.amazon.in/s?k=phone&page=222",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 24275,
+      "status": "ok"
+    },
+    {
+      "page": 223,
+      "url": "https://www.amazon.in/s?k=phone&page=223",
+      "records_found": 88,
+      "unique_added": 3,
+      "duplicates_on_page": 85,
+      "cumulative_scanned": 24363,
+      "status": "ok"
+    },
+    {
+      "page": 224,
+      "url": "https://www.amazon.in/s?k=phone&page=224",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 24463,
+      "status": "ok"
+    },
+    {
+      "page": 225,
+      "url": "https://www.amazon.in/s?k=phone&page=225",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 24563,
+      "status": "ok"
+    },
+    {
+      "page": 226,
+      "url": "https://www.amazon.in/s?k=phone&page=226",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 24660,
+      "status": "ok"
+    },
+    {
+      "page": 227,
+      "url": "https://www.amazon.in/s?k=phone&page=227",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 24748,
+      "status": "ok"
+    },
+    {
+      "page": 228,
+      "url": "https://www.amazon.in/s?k=phone&page=228",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 24848,
+      "status": "ok"
+    },
+    {
+      "page": 229,
+      "url": "https://www.amazon.in/s?k=phone&page=229",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 24936,
+      "status": "ok"
+    },
+    {
+      "page": 230,
+      "url": "https://www.amazon.in/s?k=phone&page=230",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 25033,
+      "status": "ok"
+    },
+    {
+      "page": 231,
+      "url": "https://www.amazon.in/s?k=phone&page=231",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 25133,
+      "status": "ok"
+    },
+    {
+      "page": 232,
+      "url": "https://www.amazon.in/s?k=phone&page=232",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 25233,
+      "status": "ok"
+    },
+    {
+      "page": 233,
+      "url": "https://www.amazon.in/s?k=phone&page=233",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 25321,
+      "status": "ok"
+    },
+    {
+      "page": 234,
+      "url": "https://www.amazon.in/s?k=phone&page=234",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 25418,
+      "status": "ok"
+    },
+    {
+      "page": 235,
+      "url": "https://www.amazon.in/s?k=phone&page=235",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 25506,
+      "status": "ok"
+    },
+    {
+      "page": 236,
+      "url": "https://www.amazon.in/s?k=phone&page=236",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 25618,
+      "status": "ok"
+    },
+    {
+      "page": 237,
+      "url": "https://www.amazon.in/s?k=phone&page=237",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 25715,
+      "status": "ok"
+    },
+    {
+      "page": 238,
+      "url": "https://www.amazon.in/s?k=phone&page=238",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 25812,
+      "status": "ok"
+    },
+    {
+      "page": 239,
+      "url": "https://www.amazon.in/s?k=phone&page=239",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 25900,
+      "status": "ok"
+    },
+    {
+      "page": 240,
+      "url": "https://www.amazon.in/s?k=phone&page=240",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 26012,
+      "status": "ok"
+    },
+    {
+      "page": 241,
+      "url": "https://www.amazon.in/s?k=phone&page=241",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 26100,
+      "status": "ok"
+    },
+    {
+      "page": 242,
+      "url": "https://www.amazon.in/s?k=phone&page=242",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 26209,
+      "status": "ok"
+    },
+    {
+      "page": 243,
+      "url": "https://www.amazon.in/s?k=phone&page=243",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 26306,
+      "status": "ok"
+    },
+    {
+      "page": 244,
+      "url": "https://www.amazon.in/s?k=phone&page=244",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 26406,
+      "status": "ok"
+    },
+    {
+      "page": 245,
+      "url": "https://www.amazon.in/s?k=phone&page=245",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 26494,
+      "status": "ok"
+    },
+    {
+      "page": 246,
+      "url": "https://www.amazon.in/s?k=phone&page=246",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 26591,
+      "status": "ok"
+    },
+    {
+      "page": 247,
+      "url": "https://www.amazon.in/s?k=phone&page=247",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 26679,
+      "status": "ok"
+    },
+    {
+      "page": 248,
+      "url": "https://www.amazon.in/s?k=phone&page=248",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 26779,
+      "status": "ok"
+    },
+    {
+      "page": 249,
+      "url": "https://www.amazon.in/s?k=phone&page=249",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 26879,
+      "status": "ok"
+    },
+    {
+      "page": 250,
+      "url": "https://www.amazon.in/s?k=phone&page=250",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 26976,
+      "status": "ok"
+    },
+    {
+      "page": 251,
+      "url": "https://www.amazon.in/s?k=phone&page=251",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 27064,
+      "status": "ok"
+    },
+    {
+      "page": 252,
+      "url": "https://www.amazon.in/s?k=phone&page=252",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 27176,
+      "status": "ok"
+    },
+    {
+      "page": 253,
+      "url": "https://www.amazon.in/s?k=phone&page=253",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 27264,
+      "status": "ok"
+    },
+    {
+      "page": 254,
+      "url": "https://www.amazon.in/s?k=phone&page=254",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 27361,
+      "status": "ok"
+    },
+    {
+      "page": 255,
+      "url": "https://www.amazon.in/s?k=phone&page=255",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 27461,
+      "status": "ok"
+    },
+    {
+      "page": 256,
+      "url": "https://www.amazon.in/s?k=phone&page=256",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 27561,
+      "status": "ok"
+    },
+    {
+      "page": 257,
+      "url": "https://www.amazon.in/s?k=phone&page=257",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 27649,
+      "status": "ok"
+    },
+    {
+      "page": 258,
+      "url": "https://www.amazon.in/s?k=phone&page=258",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 27758,
+      "status": "ok"
+    },
+    {
+      "page": 259,
+      "url": "https://www.amazon.in/s?k=phone&page=259",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 27846,
+      "status": "ok"
+    },
+    {
+      "page": 260,
+      "url": "https://www.amazon.in/s?k=phone&page=260",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 27946,
+      "status": "ok"
+    },
+    {
+      "page": 261,
+      "url": "https://www.amazon.in/s?k=phone&page=261",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 28034,
+      "status": "ok"
+    },
+    {
+      "page": 262,
+      "url": "https://www.amazon.in/s?k=phone&page=262",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 28143,
+      "status": "ok"
+    },
+    {
+      "page": 263,
+      "url": "https://www.amazon.in/s?k=phone&page=263",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 28240,
+      "status": "ok"
+    },
+    {
+      "page": 264,
+      "url": "https://www.amazon.in/s?k=phone&page=264",
+      "records_found": 106,
+      "unique_added": 0,
+      "duplicates_on_page": 106,
+      "cumulative_scanned": 28346,
+      "status": "ok"
+    },
+    {
+      "page": 265,
+      "url": "https://www.amazon.in/s?k=phone&page=265",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 28434,
+      "status": "ok"
+    },
+    {
+      "page": 266,
+      "url": "https://www.amazon.in/s?k=phone&page=266",
+      "records_found": 97,
+      "unique_added": 1,
+      "duplicates_on_page": 96,
+      "cumulative_scanned": 28531,
+      "status": "ok"
+    },
+    {
+      "page": 267,
+      "url": "https://www.amazon.in/s?k=phone&page=267",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 28619,
+      "status": "ok"
+    },
+    {
+      "page": 268,
+      "url": "https://www.amazon.in/s?k=phone&page=268",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 28728,
+      "status": "ok"
+    },
+    {
+      "page": 269,
+      "url": "https://www.amazon.in/s?k=phone&page=269",
+      "records_found": 88,
+      "unique_added": 0,
+      "duplicates_on_page": 88,
+      "cumulative_scanned": 28816,
+      "status": "ok"
+    },
+    {
+      "page": 270,
+      "url": "https://www.amazon.in/s?k=phone&page=270",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 28913,
+      "status": "ok"
+    },
+    {
+      "page": 271,
+      "url": "https://www.amazon.in/s?k=phone&page=271",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 29013,
+      "status": "ok"
+    },
+    {
+      "page": 272,
+      "url": "https://www.amazon.in/s?k=phone&page=272",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 29113,
+      "status": "ok"
+    },
+    {
+      "page": 273,
+      "url": "https://www.amazon.in/s?k=phone&page=273",
+      "records_found": 100,
+      "unique_added": 1,
+      "duplicates_on_page": 99,
+      "cumulative_scanned": 29213,
+      "status": "ok"
+    },
+    {
+      "page": 274,
+      "url": "https://www.amazon.in/s?k=phone&page=274",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 29310,
+      "status": "ok"
+    },
+    {
+      "page": 275,
+      "url": "https://www.amazon.in/s?k=phone&page=275",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 29410,
+      "status": "ok"
+    },
+    {
+      "page": 276,
+      "url": "https://www.amazon.in/s?k=phone&page=276",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 29510,
+      "status": "ok"
+    },
+    {
+      "page": 277,
+      "url": "https://www.amazon.in/s?k=phone&page=277",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 29610,
+      "status": "ok"
+    },
+    {
+      "page": 278,
+      "url": "https://www.amazon.in/s?k=phone&page=278",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 29707,
+      "status": "ok"
+    },
+    {
+      "page": 279,
+      "url": "https://www.amazon.in/s?k=phone&page=279",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 29807,
+      "status": "ok"
+    },
+    {
+      "page": 280,
+      "url": "https://www.amazon.in/s?k=phone&page=280",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 29907,
+      "status": "ok"
+    },
+    {
+      "page": 281,
+      "url": "https://www.amazon.in/s?k=phone&page=281",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 30007,
+      "status": "ok"
+    },
+    {
+      "page": 282,
+      "url": "https://www.amazon.in/s?k=phone&page=282",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 30104,
+      "status": "ok"
+    },
+    {
+      "page": 283,
+      "url": "https://www.amazon.in/s?k=phone&page=283",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 30204,
+      "status": "ok"
+    },
+    {
+      "page": 284,
+      "url": "https://www.amazon.in/s?k=phone&page=284",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 30313,
+      "status": "ok"
+    },
+    {
+      "page": 285,
+      "url": "https://www.amazon.in/s?k=phone&page=285",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 30422,
+      "status": "ok"
+    },
+    {
+      "page": 286,
+      "url": "https://www.amazon.in/s?k=phone&page=286",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 30519,
+      "status": "ok"
+    },
+    {
+      "page": 287,
+      "url": "https://www.amazon.in/s?k=phone&page=287",
+      "records_found": 112,
+      "unique_added": 1,
+      "duplicates_on_page": 111,
+      "cumulative_scanned": 30631,
+      "status": "ok"
+    },
+    {
+      "page": 288,
+      "url": "https://www.amazon.in/s?k=phone&page=288",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 30731,
+      "status": "ok"
+    },
+    {
+      "page": 289,
+      "url": "https://www.amazon.in/s?k=phone&page=289",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 30840,
+      "status": "ok"
+    },
+    {
+      "page": 290,
+      "url": "https://www.amazon.in/s?k=phone&page=290",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 30937,
+      "status": "ok"
+    },
+    {
+      "page": 291,
+      "url": "https://www.amazon.in/s?k=phone&page=291",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 31037,
+      "status": "ok"
+    },
+    {
+      "page": 292,
+      "url": "https://www.amazon.in/s?k=phone&page=292",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 31137,
+      "status": "ok"
+    },
+    {
+      "page": 293,
+      "url": "https://www.amazon.in/s?k=phone&page=293",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 31237,
+      "status": "ok"
+    },
+    {
+      "page": 294,
+      "url": "https://www.amazon.in/s?k=phone&page=294",
+      "records_found": 106,
+      "unique_added": 0,
+      "duplicates_on_page": 106,
+      "cumulative_scanned": 31343,
+      "status": "ok"
+    },
+    {
+      "page": 295,
+      "url": "https://www.amazon.in/s?k=phone&page=295",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 31443,
+      "status": "ok"
+    },
+    {
+      "page": 296,
+      "url": "https://www.amazon.in/s?k=phone&page=296",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 31555,
+      "status": "ok"
+    },
+    {
+      "page": 297,
+      "url": "https://www.amazon.in/s?k=phone&page=297",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 31655,
+      "status": "ok"
+    },
+    {
+      "page": 298,
+      "url": "https://www.amazon.in/s?k=phone&page=298",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 31752,
+      "status": "ok"
+    },
+    {
+      "page": 299,
+      "url": "https://www.amazon.in/s?k=phone&page=299",
+      "records_found": 112,
+      "unique_added": 3,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 31864,
+      "status": "ok"
+    },
+    {
+      "page": 300,
+      "url": "https://www.amazon.in/s?k=phone&page=300",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 31973,
+      "status": "ok"
+    },
+    {
+      "page": 301,
+      "url": "https://www.amazon.in/s?k=phone&page=301",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 32085,
+      "status": "ok"
+    },
+    {
+      "page": 302,
+      "url": "https://www.amazon.in/s?k=phone&page=302",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 32182,
+      "status": "ok"
+    },
+    {
+      "page": 303,
+      "url": "https://www.amazon.in/s?k=phone&page=303",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 32282,
+      "status": "ok"
+    },
+    {
+      "page": 304,
+      "url": "https://www.amazon.in/s?k=phone&page=304",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 32382,
+      "status": "ok"
+    },
+    {
+      "page": 305,
+      "url": "https://www.amazon.in/s?k=phone&page=305",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 32494,
+      "status": "ok"
+    },
+    {
+      "page": 306,
+      "url": "https://www.amazon.in/s?k=phone&page=306",
+      "records_found": 94,
+      "unique_added": 0,
+      "duplicates_on_page": 94,
+      "cumulative_scanned": 32588,
+      "status": "ok"
+    },
+    {
+      "page": 307,
+      "url": "https://www.amazon.in/s?k=phone&page=307",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 32688,
+      "status": "ok"
+    },
+    {
+      "page": 308,
+      "url": "https://www.amazon.in/s?k=phone&page=308",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 32800,
+      "status": "ok"
+    },
+    {
+      "page": 309,
+      "url": "https://www.amazon.in/s?k=phone&page=309",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 32900,
+      "status": "ok"
+    },
+    {
+      "page": 310,
+      "url": "https://www.amazon.in/s?k=phone&page=310",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 32997,
+      "status": "ok"
+    },
+    {
+      "page": 311,
+      "url": "https://www.amazon.in/s?k=phone&page=311",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 33097,
+      "status": "ok"
+    },
+    {
+      "page": 312,
+      "url": "https://www.amazon.in/s?k=phone&page=312",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 33197,
+      "status": "ok"
+    },
+    {
+      "page": 313,
+      "url": "https://www.amazon.in/s?k=phone&page=313",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 33297,
+      "status": "ok"
+    },
+    {
+      "page": 314,
+      "url": "https://www.amazon.in/s?k=phone&page=314",
+      "records_found": 106,
+      "unique_added": 0,
+      "duplicates_on_page": 106,
+      "cumulative_scanned": 33403,
+      "status": "ok"
+    },
+    {
+      "page": 315,
+      "url": "https://www.amazon.in/s?k=phone&page=315",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 33503,
+      "status": "ok"
+    },
+    {
+      "page": 316,
+      "url": "https://www.amazon.in/s?k=phone&page=316",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 33603,
+      "status": "ok"
+    },
+    {
+      "page": 317,
+      "url": "https://www.amazon.in/s?k=phone&page=317",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 33715,
+      "status": "ok"
+    },
+    {
+      "page": 318,
+      "url": "https://www.amazon.in/s?k=phone&page=318",
+      "records_found": 109,
+      "unique_added": 2,
+      "duplicates_on_page": 107,
+      "cumulative_scanned": 33824,
+      "status": "ok"
+    },
+    {
+      "page": 319,
+      "url": "https://www.amazon.in/s?k=phone&page=319",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 33924,
+      "status": "ok"
+    },
+    {
+      "page": 320,
+      "url": "https://www.amazon.in/s?k=phone&page=320",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 34024,
+      "status": "ok"
+    },
+    {
+      "page": 321,
+      "url": "https://www.amazon.in/s?k=phone&page=321",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 34124,
+      "status": "ok"
+    },
+    {
+      "page": 322,
+      "url": "https://www.amazon.in/s?k=phone&page=322",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 34221,
+      "status": "ok"
+    },
+    {
+      "page": 323,
+      "url": "https://www.amazon.in/s?k=phone&page=323",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 34333,
+      "status": "ok"
+    },
+    {
+      "page": 324,
+      "url": "https://www.amazon.in/s?k=phone&page=324",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 34433,
+      "status": "ok"
+    },
+    {
+      "page": 325,
+      "url": "https://www.amazon.in/s?k=phone&page=325",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 34533,
+      "status": "ok"
+    },
+    {
+      "page": 326,
+      "url": "https://www.amazon.in/s?k=phone&page=326",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 34642,
+      "status": "ok"
+    },
+    {
+      "page": 327,
+      "url": "https://www.amazon.in/s?k=phone&page=327",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 34751,
+      "status": "ok"
+    },
+    {
+      "page": 328,
+      "url": "https://www.amazon.in/s?k=phone&page=328",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 34851,
+      "status": "ok"
+    },
+    {
+      "page": 329,
+      "url": "https://www.amazon.in/s?k=phone&page=329",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 34951,
+      "status": "ok"
+    },
+    {
+      "page": 330,
+      "url": "https://www.amazon.in/s?k=phone&page=330",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 35048,
+      "status": "ok"
+    },
+    {
+      "page": 331,
+      "url": "https://www.amazon.in/s?k=phone&page=331",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 35160,
+      "status": "ok"
+    },
+    {
+      "page": 332,
+      "url": "https://www.amazon.in/s?k=phone&page=332",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 35260,
+      "status": "ok"
+    },
+    {
+      "page": 333,
+      "url": "https://www.amazon.in/s?k=phone&page=333",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 35360,
+      "status": "ok"
+    },
+    {
+      "page": 334,
+      "url": "https://www.amazon.in/s?k=phone&page=334",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 35457,
+      "status": "ok"
+    },
+    {
+      "page": 335,
+      "url": "https://www.amazon.in/s?k=phone&page=335",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 35557,
+      "status": "ok"
+    },
+    {
+      "page": 336,
+      "url": "https://www.amazon.in/s?k=phone&page=336",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 35657,
+      "status": "ok"
+    },
+    {
+      "page": 337,
+      "url": "https://www.amazon.in/s?k=phone&page=337",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 35766,
+      "status": "ok"
+    },
+    {
+      "page": 338,
+      "url": "https://www.amazon.in/s?k=phone&page=338",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 35863,
+      "status": "ok"
+    },
+    {
+      "page": 339,
+      "url": "https://www.amazon.in/s?k=phone&page=339",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 35975,
+      "status": "ok"
+    },
+    {
+      "page": 340,
+      "url": "https://www.amazon.in/s?k=phone&page=340",
+      "records_found": 109,
+      "unique_added": 0,
+      "duplicates_on_page": 109,
+      "cumulative_scanned": 36084,
+      "status": "ok"
+    },
+    {
+      "page": 341,
+      "url": "https://www.amazon.in/s?k=phone&page=341",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 36196,
+      "status": "ok"
+    },
+    {
+      "page": 342,
+      "url": "https://www.amazon.in/s?k=phone&page=342",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 36293,
+      "status": "ok"
+    },
+    {
+      "page": 343,
+      "url": "https://www.amazon.in/s?k=phone&page=343",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 36393,
+      "status": "ok"
+    },
+    {
+      "page": 344,
+      "url": "https://www.amazon.in/s?k=phone&page=344",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 36493,
+      "status": "ok"
+    },
+    {
+      "page": 345,
+      "url": "https://www.amazon.in/s?k=phone&page=345",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 36593,
+      "status": "ok"
+    },
+    {
+      "page": 346,
+      "url": "https://www.amazon.in/s?k=phone&page=346",
+      "records_found": 97,
+      "unique_added": 0,
+      "duplicates_on_page": 97,
+      "cumulative_scanned": 36690,
+      "status": "ok"
+    },
+    {
+      "page": 347,
+      "url": "https://www.amazon.in/s?k=phone&page=347",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 36802,
+      "status": "ok"
+    },
+    {
+      "page": 348,
+      "url": "https://www.amazon.in/s?k=phone&page=348",
+      "records_found": 100,
+      "unique_added": 0,
+      "duplicates_on_page": 100,
+      "cumulative_scanned": 36902,
+      "status": "ok"
+    },
+    {
+      "page": 349,
+      "url": "https://www.amazon.in/s?k=phone&page=349",
+      "records_found": 112,
+      "unique_added": 0,
+      "duplicates_on_page": 112,
+      "cumulative_scanned": 37014,
+      "status": "ok"
+    },
+    {
+      "page": 350,
+      "url": "https://www.amazon.in/s?k=phone&page=350",
+      "records_found": 0,
+      "unique_added": 0,
+      "duplicates_on_page": 0,
+      "cumulative_scanned": 37014,
+      "status": "failed"
+    },
+    {
+      "page": 351,
+      "url": "https://www.amazon.in/s?k=phone&page=351",
+      "records_found": 0,
+      "unique_added": 0,
+      "duplicates_on_page": 0,
+      "cumulative_scanned": 37014,
+      "status": "failed"
+    },
+    {
+      "page": 352,
+      "url": "https://www.amazon.in/s?k=phone&page=352",
+      "records_found": 0,
+      "unique_added": 0,
+      "duplicates_on_page": 0,
+      "cumulative_scanned": 37014,
+      "status": "failed"
+    },
+    {
+      "page": 353,
+      "url": "https://www.amazon.in/s?k=phone&page=353",
+      "records_found": 0,
+      "unique_added": 0,
+      "duplicates_on_page": 0,
+      "cumulative_scanned": 37014,
+      "status": "empty"
+    }
+  ],
+  "missing_pages": [
+    350,
+    351,
+    352
+  ],
+  "failed_pages": [
+    350,
+    351,
+    352
+  ],
+  "captcha_pages": [],
+  "max_search_pages_limit": 2000
+}

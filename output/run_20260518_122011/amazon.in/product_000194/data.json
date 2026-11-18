@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Google Pixel 9A 5G (8GB RAM, 256GB Storage)",
+  "product_url": "https://www.amazon.in/dp/B0F5QS3MPX",
+  "brand": "Brand: Google",
+  "ean": "",
+  "price": "₹59,999",
+  "description": "Pixel 9a is designed to handle spills, dust, drops, and dings. From IP68 water and dust protection to a scratch-resistant display and long-lasting materials, it’s the most durable Pixel A-Series phone yet. The Adaptive Battery on Pixel 9a can last over 30 hours. Need even more? Turn on Extreme Battery Saver to make it last up to 100. That’s big energy. Night Sight takes sharp, vivid photos, portraits, and panos in low light, like concerts and cityscapes – even the Milky Way with astrophotography.",
+  "sellers": [
+    {
+      "seller": "PSV Retail",
+      "price": "₹59,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

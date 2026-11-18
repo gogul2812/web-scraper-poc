@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Vivo T4 Lite 5G Prism Blue_128GB+4GB",
+  "product_url": "https://www.amazon.in/dp/B0FFDZZ8CS",
+  "brand": "Visit the vivo Store",
+  "ean": "",
+  "price": "₹13,999.00",
+  "description": "4 GB RAM | 128 GB ROM | Expandable Upto 2 TB 17.12 cm (6.74 inch) HD+ Display 50MP + 2MP | 5MP Front Camera 6000 mAh Battery Dimensity 6300 5G Processor",
+  "sellers": [
+    {
+      "seller": "Myles!",
+      "price": "₹13,999.00"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

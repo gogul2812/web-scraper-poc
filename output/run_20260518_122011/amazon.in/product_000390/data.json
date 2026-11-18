@@ -1,0 +1,18 @@
+{
+  "site": "amazon.in",
+  "query": "phone",
+  "product_name": "Mi Redmi 8 Ruby Red, 4GB RAM, 64GB Storage Smartphone",
+  "product_url": "https://www.amazon.in/dp/B07Z6JYPTW",
+  "brand": "Brand: MI",
+  "ean": "",
+  "price": "₹10,999",
+  "description": "Display Type: Lcd",
+  "sellers": [
+    {
+      "seller": "RAVITRON",
+      "price": "₹10,999"
+    }
+  ],
+  "images": [],
+  "status": "OK"
+}

@@ -1,0 +1,911 @@
+{
+  "total_duplicate_listing_hits": 36426,
+  "total_records_scanned": 37014,
+  "unique_products": 588,
+  "duplicate_ratio": "98.41%",
+  "duplicate_url_keys_count": 584,
+  "duplicate_urls_sample": [
+    "https://www.amazon.in/dp/B0F1D9LCK3",
+    "https://www.amazon.in/dp/B0F1D9Q5G4",
+    "https://www.amazon.in/dp/B0GRD84RLF",
+    "https://www.amazon.in/dp/B0F2HBYZ8B",
+    "https://www.amazon.in/dp/B0F2HCGXTB",
+    "https://www.amazon.in/dp/B0FN7WCV5Y",
+    "https://www.amazon.in/dp/B0FN7W26Q8",
+    "https://www.amazon.in/dp/B0DX6P3RX9",
+    "https://www.amazon.in/dp/B0DX6S111L",
+    "https://www.amazon.in/dp/B0G49VMCZ3",
+    "https://www.amazon.in/dp/B0G49YZTTW",
+    "https://www.amazon.in/dp/B0GKPYRHGX",
+    "https://www.amazon.in/dp/B0FTZ1WND9",
+    "https://www.amazon.in/dp/B0FNMR6KTQ",
+    "https://www.amazon.in/dp/B0FNMQW9HW",
+    "https://www.amazon.in/dp/B0FT7K55SM",
+    "https://www.amazon.in/dp/B0FNMNWQZV",
+    "https://www.amazon.in/dp/B0FN7QTRPY",
+    "https://www.amazon.in/dp/B0G47YZJH6",
+    "https://www.amazon.in/dp/B0DQ8S38R8",
+    "https://www.amazon.in/dp/B0DPS62DYH",
+    "https://www.amazon.in/dp/B0FHB53VL7",
+    "https://www.amazon.in/dp/B0FHB6HZYM",
+    "https://www.amazon.in/dp/B0GFW1BJ1D",
+    "https://www.amazon.in/dp/B0GFVPT1X9",
+    "https://www.amazon.in/dp/B0GRQP1CFS",
+    "https://www.amazon.in/dp/B0GRMZ8X9R",
+    "https://www.amazon.in/dp/B0GRWC97FF",
+    "https://www.amazon.in/dp/B0GRMNRMF7",
+    "https://www.amazon.in/dp/B0G75Q7TDP",
+    "https://www.amazon.in/dp/B0GRQFCZSZ",
+    "https://www.amazon.in/dp/B0GTRXVQ8N",
+    "https://www.amazon.in/dp/B0GTRM9NQ7",
+    "https://www.amazon.in/dp/B0GGZCHMQS",
+    "https://www.amazon.in/dp/B0FJFT4VDY",
+    "https://www.amazon.in/dp/B0FJFSDYVC",
+    "https://www.amazon.in/dp/B0FJFVLPQP",
+    "https://www.amazon.in/dp/B0GS5Y7QBF",
+    "https://www.amazon.in/dp/B0GZH342DX",
+    "https://www.amazon.in/dp/B0G5G8ZV1G",
+    "https://www.amazon.in/dp/B0GMQWZ6ZM",
+    "https://www.amazon.in/dp/B0GC5KQSTV",
+    "https://www.amazon.in/dp/B0DQLTWBH7",
+    "https://www.amazon.in/dp/B0GFW1PT94",
+    "https://www.amazon.in/dp/B0DQF11VXY",
+    "https://www.amazon.in/dp/B0DQDZJRVD",
+    "https://www.amazon.in/dp/B0DQF229VV",
+    "https://www.amazon.in/dp/B0GL1WGHJX",
+    "https://www.amazon.in/dp/B0GBVVCYRX",
+    "https://www.amazon.in/dp/B0GVYRQDL8",
+    "https://www.amazon.in/dp/B0GVYWSJHY",
+    "https://www.amazon.in/dp/B0C5HQZ8YP",
+    "https://www.amazon.in/dp/B0F194NC2H",
+    "https://www.amazon.in/dp/B0GL1JFK48",
+    "https://www.amazon.in/dp/B0F7RB8NNL",
+    "https://www.amazon.in/dp/B0F7R82LHJ",
+    "https://www.amazon.in/dp/B0F1TWKRF6",
+    "https://www.amazon.in/dp/B0G9TKRGZD",
+    "https://www.amazon.in/dp/B0F2FJNFRM",
+    "https://www.amazon.in/dp/B0FHGD4VNY",
+    "https://www.amazon.in/dp/B0B9YK24TF",
+    "https://www.amazon.in/dp/B0B9YG883G",
+    "https://www.amazon.in/dp/B0G4BWMQDZ",
+    "https://www.amazon.in/dp/B0GHX1RLKC",
+    "https://www.amazon.in/dp/B0G4BDQ4BH",
+    "https://www.amazon.in/dp/B0GK8DJ7CZ",
+    "https://www.amazon.in/dp/B0GK8NLC3K",
+    "https://www.amazon.in/dp/B0GWLJL55D",
+    "https://www.amazon.in/dp/B0GWLDWKF3",
+    "https://www.amazon.in/dp/B0F5WSDY93",
+    "https://www.amazon.in/dp/B0F5WRTGCG",
+    "https://www.amazon.in/dp/B0F5WTG8RG",
+    "https://www.amazon.in/dp/B0GS5SM6JR",
+    "https://www.amazon.in/dp/B0GS5N7M97",
+    "https://www.amazon.in/dp/B0F3XB7T5Q",
+    "https://www.amazon.in/dp/B0F4CWD6V3",
+    "https://www.amazon.in/dp/B0F3XP9GRT",
+    "https://www.amazon.in/dp/B0F6VVJ2B9",
+    "https://www.amazon.in/dp/B0F6TRV5M9",
+    "https://www.amazon.in/dp/B0FFDZZ8CS",
+    "https://www.amazon.in/dp/B0FFF9VPMN",
+    "https://www.amazon.in/dp/B0FT7T3GZF",
+    "https://www.amazon.in/dp/B0FSKXG9LZ",
+    "https://www.amazon.in/dp/B0FSKWJX31",
+    "https://www.amazon.in/dp/B0G3X48FQ4",
+    "https://www.amazon.in/dp/B0F3P5KQNS",
+    "https://www.amazon.in/dp/B0G3SWTTQ7",
+    "https://www.amazon.in/dp/B08WKFSN84",
+    "https://www.amazon.in/dp/B0G135NN2H",
+    "https://www.amazon.in/dp/B0DXBXD6MN",
+    "https://www.amazon.in/dp/B0GPDK4MMN",
+    "https://www.amazon.in/dp/B0FDB9ZCTD",
+    "https://www.amazon.in/dp/B0F43VZ4H1",
+    "https://www.amazon.in/dp/B0F43WXC8K",
+    "https://www.amazon.in/dp/B0BFWWTQ4T",
+    "https://www.amazon.in/dp/B0D8FT6SHS",
+    "https://www.amazon.in/dp/B0CSP891CR",
+    "https://www.amazon.in/dp/B0GL8FZP8Y",
+    "https://www.amazon.in/dp/B0GL8B68FP",
+    "https://www.amazon.in/dp/B0F2T6TV4M",
+    "https://www.amazon.in/dp/B0C5RJHD7D",
+    "https://www.amazon.in/dp/B07YYNX5X6",
+    "https://www.amazon.in/dp/B0CBMH1YSN",
+    "https://www.amazon.in/dp/B0CBMG2JFF",
+    "https://www.amazon.in/dp/B0DQ8W9CTT",
+    "https://www.amazon.in/dp/B0DQ8S77V6",
+    "https://www.amazon.in/dp/B0DQ8MJYXF",
+    "https://www.amazon.in/dp/B0FHGDCX48",
+    "https://www.amazon.in/dp/B0GTV6S8Q2",
+    "https://www.amazon.in/dp/B0GTTW99DG",
+    "https://www.amazon.in/dp/B0FQ567DFZ",
+    "https://www.amazon.in/dp/B0GP8XTH7K",
+    "https://www.amazon.in/dp/B0GP7L5J2J",
+    "https://www.amazon.in/dp/B0G5G25YBQ",
+    "https://www.amazon.in/dp/B0G5G7LNCV",
+    "https://www.amazon.in/dp/B0G5G2KMQN",
+    "https://www.amazon.in/dp/B0DSKNQW8F",
+    "https://www.amazon.in/dp/B0DVC8FPVJ",
+    "https://www.amazon.in/dp/B0DVC72DF8",
+    "https://www.amazon.in/dp/B0DVC6RV6P",
+    "https://www.amazon.in/dp/B0D2RYMPL6",
+    "https://www.amazon.in/dp/B0FNPNL2D8",
+    "https://www.amazon.in/dp/B0GL8KP32R",
+    "https://www.amazon.in/dp/B0GL8H3XFN",
+    "https://www.amazon.in/dp/B08HNBHSQV",
+    "https://www.amazon.in/dp/B0DHYXZ31J",
+    "https://www.amazon.in/dp/B0CM3DCWQY",
+    "https://www.amazon.in/dp/B0GF24LR6D",
+    "https://www.amazon.in/dp/B0GF23R9B6",
+    "https://www.amazon.in/dp/B0GF1V7BCC",
+    "https://www.amazon.in/dp/B0DYDSWHVW",
+    "https://www.amazon.in/dp/B0GTQ5X45R",
+    "https://www.amazon.in/dp/B0GRDDN7JW",
+    "https://www.amazon.in/dp/B0FTRYH3XM",
+    "https://www.amazon.in/dp/B0FTR5NGHJ",
+    "https://www.amazon.in/dp/B0FTRN7L8Q",
+    "https://www.amazon.in/dp/B0FDL3VZR8",
+    "https://www.amazon.in/dp/B0FDL5K6SV",
+    "https://www.amazon.in/dp/B0FDL5T1PF",
+    "https://www.amazon.in/dp/B0GMP72ZVL",
+    "https://www.amazon.in/dp/B0GMPMPPQ9",
+    "https://www.amazon.in/dp/B0FNMP9YHZ",
+    "https://www.amazon.in/dp/B0FNMPFNWT",
+    "https://www.amazon.in/dp/B0FNMN6D5K",
+    "https://www.amazon.in/dp/B0GN1NNYXF",
+    "https://www.amazon.in/dp/B0GN1J78Z2",
+    "https://www.amazon.in/dp/B0GWF8385T",
+    "https://www.amazon.in/dp/B0GL8BNV58",
+    "https://www.amazon.in/dp/B0GLGWFR89",
+    "https://www.amazon.in/dp/B0GLGZPF9Z",
+    "https://www.amazon.in/dp/B0GLHCCWFB",
+    "https://www.amazon.in/dp/B0FDL4D22W",
+    "https://www.amazon.in/dp/B0FDL4DKK2",
+    "https://www.amazon.in/dp/B0FDKZ82MJ",
+    "https://www.amazon.in/dp/B0DXPW662S",
+    "https://www.amazon.in/dp/B0DXPVDB3T",
+    "https://www.amazon.in/dp/B0DXPT71MW",
+    "https://www.amazon.in/dp/B0G1PPG6W3",
+    "https://www.amazon.in/dp/B0FQBZQR9Q",
+    "https://www.amazon.in/dp/B0GLZMSN46",
+    "https://www.amazon.in/dp/B0GLZPHBHW",
+    "https://www.amazon.in/dp/B0CXMD9YX5",
+    "https://www.amazon.in/dp/B0FJMK27Y5",
+    "https://www.amazon.in/dp/B0FS732WZT",
+    "https://www.amazon.in/dp/B0G3T3HZC6",
+    "https://www.amazon.in/dp/B0FSTNHN2T",
+    "https://www.amazon.in/dp/B0F6XNQ1DG",
+    "https://www.amazon.in/dp/B0FS769JLH",
+    "https://www.amazon.in/dp/B0GRG8XGQX",
+    "https://www.amazon.in/dp/B0G5G5C89T",
+    "https://www.amazon.in/dp/B0FRNNP6F5",
+    "https://www.amazon.in/dp/B0GHRLJKZ1",
+    "https://www.amazon.in/dp/B0GHS877B4",
+    "https://www.amazon.in/dp/B0GHRGDF45",
+    "https://www.amazon.in/dp/B0GXBHXKJF",
+    "https://www.amazon.in/dp/B0FL56GHPX",
+    "https://www.amazon.in/dp/B0F46SJ5SB",
+    "https://www.amazon.in/dp/B0FHGHFHLT",
+    "https://www.amazon.in/dp/B0GHHCT83P",
+    "https://www.amazon.in/dp/B0FHGD3PNV",
+    "https://www.amazon.in/dp/B0DSTLPR3C",
+    "https://www.amazon.in/dp/B0G81XTZT4",
+    "https://www.amazon.in/dp/B0G816KVPV",
+    "https://www.amazon.in/dp/B0GPQH2DG2",
+    "https://www.amazon.in/dp/B0GL89JY6X",
+    "https://www.amazon.in/dp/B0GL8SGHMT",
+    "https://www.amazon.in/dp/B0GL8L8G9V",
+    "https://www.amazon.in/dp/B0GL8CMJ66",
+    "https://www.amazon.in/dp/B0GVFQD1JK",
+    "https://www.amazon.in/dp/B0GVFVND7C",
+    "https://www.amazon.in/dp/B0F8ZVRLZB",
+    "https://www.amazon.in/dp/B0F6CY1S9Z",
+    "https://www.amazon.in/dp/B0F5QS3MPX",
+    "https://www.amazon.in/dp/B0GF24HNK2",
+    "https://www.amazon.in/dp/B0GF25NBWT",
+    "https://www.amazon.in/dp/B0GF27G7WW",
+    "https://www.amazon.in/dp/B0G8YCFRHX",
+    "https://www.amazon.in/dp/B0G8XVKNS1",
+    "https://www.amazon.in/dp/B0DCJMMGNF",
+    "https://www.amazon.in/dp/B0G3X74B2W",
+    "https://www.amazon.in/dp/B0G3X99DLF",
+    "https://www.amazon.in/dp/B0G3X99MZS",
+    "https://www.amazon.in/dp/B0GSRJ52CQ",
+    "https://www.amazon.in/dp/B0GGH5KMM2",
+    "https://www.amazon.in/dp/B09V2P9C3S",
+    "https://www.amazon.in/dp/B09V2LX1R4",
+    "https://www.amazon.in/dp/B0FLD3DKY2",
+    "https://www.amazon.in/dp/B0FLD5W859",
+    "https://www.amazon.in/dp/B0FLD67MK9",
+    "https://www.amazon.in/dp/B0G8YCBWV9",
+    "https://www.amazon.in/dp/B0G8YNYBZK",
+    "https://www.amazon.in/dp/B0G8X81QGS",
+    "https://www.amazon.in/dp/B0CWPF57J2",
+    "https://www.amazon.in/dp/B0CWPDYS2C",
+    "https://www.amazon.in/dp/B0FNWF927N",
+    "https://www.amazon.in/dp/B0GC688PMP",
+    "https://www.amazon.in/dp/B0GC794T7J",
+    "https://www.amazon.in/dp/B0G6TK27F5",
+    "https://www.amazon.in/dp/B0GTTZ5QNN",
+    "https://www.amazon.in/dp/B0GTV49XNC",
+    "https://www.amazon.in/dp/B0FYGGJZV4",
+    "https://www.amazon.in/dp/B0GT5FKR33",
+    "https://www.amazon.in/dp/B0FYGBSKFB",
+    "https://www.amazon.in/dp/B0FPG5B26C",
+    "https://www.amazon.in/dp/B0GXWMXNPT",
+    "https://www.amazon.in/dp/B0FP964JZV",
+    "https://www.amazon.in/dp/B0GZ7BHVNS",
+    "https://www.amazon.in/dp/B0FW4FYCD3",
+    "https://www.amazon.in/dp/B0FW4LK5V2",
+    "https://www.amazon.in/dp/B0FW4LKTFV",
+    "https://www.amazon.in/dp/B0FP31YRSF",
+    "https://www.amazon.in/dp/B0GK9LD4G3",
+    "https://www.amazon.in/dp/B0G29VSZF6",
+    "https://www.amazon.in/dp/B0G2B39Q4H",
+    "https://www.amazon.in/dp/B0G2B12DSQ",
+    "https://www.amazon.in/dp/B0F6YQ9WHB",
+    "https://www.amazon.in/dp/B0F6YQ8JQJ",
+    "https://www.amazon.in/dp/B0F6YR8WP2",
+    "https://www.amazon.in/dp/B0FJLRCJSC",
+    "https://www.amazon.in/dp/B06XWRRMYX",
+    "https://www.amazon.in/dp/B08CS8T8DC",
+    "https://www.amazon.in/dp/B0779V61XB",
+    "https://www.amazon.in/dp/B0FZSKTV1S",
+    "https://www.amazon.in/dp/B0FZSXYV6K",
+    "https://www.amazon.in/dp/B0CBKLM7PP",
+    "https://www.amazon.in/dp/B0CBKMGD4F",
+    "https://www.amazon.in/dp/B0CBKMP5RR",
+    "https://www.amazon.in/dp/B0F5Q5FWT4",
+    "https://www.amazon.in/dp/B0FN8L66VZ",
+    "https://www.amazon.in/dp/B0GMQG7QM5",
+    "https://www.amazon.in/dp/B0GMQMG91N",
+    "https://www.amazon.in/dp/B0GRFZ99L5",
+    "https://www.amazon.in/dp/B0GQGQWP6N",
+    "https://www.amazon.in/dp/B0GQGHZTRP",
+    "https://www.amazon.in/dp/B0GRBBF1YF",
+    "https://www.amazon.in/dp/B0D2RYXKJQ",
+    "https://www.amazon.in/dp/B0FGY7C13L",
+    "https://www.amazon.in/dp/B0GF1ZHRGG",
+    "https://www.amazon.in/dp/B0GF2H24ZJ",
+    "https://www.amazon.in/dp/B0GF293B8F",
+    "https://www.amazon.in/dp/B0DHL7YT5S",
+    "https://www.amazon.in/dp/B0F1YQDGL9",
+    "https://www.amazon.in/dp/B0G1LN4T61",
+    "https://www.amazon.in/dp/B0G1M4YKGL",
+    "https://www.amazon.in/dp/B0G1LVZGXK",
+    "https://www.amazon.in/dp/B0GRFRWT78",
+    "https://www.amazon.in/dp/B0DZHQQ3MG",
+    "https://www.amazon.in/dp/B0FLCZY2L6",
+    "https://www.amazon.in/dp/B0GHWGQMJ1",
+    "https://www.amazon.in/dp/B0GHWPCWFS",
+    "https://www.amazon.in/dp/B0GHWSL2NX",
+    "https://www.amazon.in/dp/B0GGZPMTPX",
+    "https://www.amazon.in/dp/B0GH1C1XFR",
+    "https://www.amazon.in/dp/B0GH17LQPM",
+    "https://www.amazon.in/dp/B0GQYBGCPW",
+    "https://www.amazon.in/dp/B0GMHJ8D14",
+    "https://www.amazon.in/dp/B0F77N1YC4",
+    "https://www.amazon.in/dp/B0CS69N54K",
+    "https://www.amazon.in/dp/B0CS5ZZMN8",
+    "https://www.amazon.in/dp/B0FT834QNK",
+    "https://www.amazon.in/dp/B0DH6NP7WR",
+    "https://www.amazon.in/dp/B0DH6TR9MC",
+    "https://www.amazon.in/dp/B0CS62KYQY",
+    "https://www.amazon.in/dp/B0G822HMR3",
+    "https://www.amazon.in/dp/B0G81XPRN4",
+    "https://www.amazon.in/dp/B0FJLBGPW3",
+    "https://www.amazon.in/dp/B0FJLBHN3D",
+    "https://www.amazon.in/dp/B0FJL97NZX",
+    "https://www.amazon.in/dp/B0FV98ZH7F",
+    "https://www.amazon.in/dp/B0F3THY5PM",
+    "https://www.amazon.in/dp/B0FXFXSVQR",
+    "https://www.amazon.in/dp/B0F844ZCW4",
+    "https://www.amazon.in/dp/B0GGGW9RMC",
+    "https://www.amazon.in/dp/B0GGJ3SBS7",
+    "https://www.amazon.in/dp/B0GGHSTVF2",
+    "https://www.amazon.in/dp/B0DKCDNDKV",
+    "https://www.amazon.in/dp/B0FZCGBXZL",
+    "https://www.amazon.in/dp/B0FTG9CJSQ",
+    "https://www.amazon.in/dp/B0GMQDDRX8",
+    "https://www.amazon.in/dp/B0DXBW3PNT",
+    "https://www.amazon.in/dp/B0FT3J2W97",
+    "https://www.amazon.in/dp/B0FT3DXJM3",
+    "https://www.amazon.in/dp/B0GS1GGF35",
+    "https://www.amazon.in/dp/B0GS16MJB5",
+    "https://www.amazon.in/dp/B0GS1F8K8L",
+    "https://www.amazon.in/dp/B0GF22T5WM",
+    "https://www.amazon.in/dp/B0GF2D2RKY",
+    "https://www.amazon.in/dp/B0GK9VCGWM",
+    "https://www.amazon.in/dp/B0F5Y84NWS",
+    "https://www.amazon.in/dp/B0GRFX6Q7J",
+    "https://www.amazon.in/dp/B0DJ7XL7SW",
+    "https://www.amazon.in/dp/B0FQFBDQJ1",
+    "https://www.amazon.in/dp/B0GQTGLTX4",
+    "https://www.amazon.in/dp/B0GMQWN8NR",
+    "https://www.amazon.in/dp/B0FJLL6782",
+    "https://www.amazon.in/dp/B0FJLCNKWF",
+    "https://www.amazon.in/dp/B0FJL8SKXL",
+    "https://www.amazon.in/dp/B0B8S82751",
+    "https://www.amazon.in/dp/B0B8S83RPT",
+    "https://www.amazon.in/dp/B0FMK9MJKD",
+    "https://www.amazon.in/dp/B0FMK8G418",
+    "https://www.amazon.in/dp/B0CWPD4QWK",
+    "https://www.amazon.in/dp/B0GSZ6CGLL",
+    "https://www.amazon.in/dp/B0GSZ9N2GY",
+    "https://www.amazon.in/dp/B0GSZCZR7C",
+    "https://www.amazon.in/dp/B0GSZ56C12",
+    "https://www.amazon.in/dp/B0DPW2M4JR",
+    "https://www.amazon.in/dp/B0G4MZXHJX",
+    "https://www.amazon.in/dp/B0FHGDSQYG",
+    "https://www.amazon.in/dp/B0FRNNBWTJ",
+    "https://www.amazon.in/dp/B0DDYCHTYW",
+    "https://www.amazon.in/dp/B0GPVNLKNX",
+    "https://www.amazon.in/dp/B0GPWRYNM1",
+    "https://www.amazon.in/dp/B0FNP9KVFC",
+    "https://www.amazon.in/dp/B0CB6GNJ52",
+    "https://www.amazon.in/dp/B0GRB7CDXN",
+    "https://www.amazon.in/dp/B0F5HQW3GZ",
+    "https://www.amazon.in/dp/B0F5HVFVKH",
+    "https://www.amazon.in/dp/B0GRG8SKTT",
+    "https://www.amazon.in/dp/B0FQFH6CV1",
+    "https://www.amazon.in/dp/B0CJML9S4F",
+    "https://www.amazon.in/dp/B0CJLXV264",
+    "https://www.amazon.in/dp/B0GRB3ZK3D",
+    "https://www.amazon.in/dp/B0GS1324ZZ",
+    "https://www.amazon.in/dp/B0GS19DMF3",
+    "https://www.amazon.in/dp/B0GS1DDQXH",
+    "https://www.amazon.in/dp/B0DHL85K81",
+    "https://www.amazon.in/dp/B0GZGY1823",
+    "https://www.amazon.in/dp/B0GYFS43N7",
+    "https://www.amazon.in/dp/B0FJFRYXFK",
+    "https://www.amazon.in/dp/B0FMRKBVYK",
+    "https://www.amazon.in/dp/B0FMRML26L",
+    "https://www.amazon.in/dp/B0FMRPP16G",
+    "https://www.amazon.in/dp/B0FGCRRG7M",
+    "https://www.amazon.in/dp/B0F7LMLR28",
+    "https://www.amazon.in/dp/B0GM165WC4",
+    "https://www.amazon.in/dp/B0FKTDVMMV",
+    "https://www.amazon.in/dp/B0F87PH8VN",
+    "https://www.amazon.in/dp/B0F87KSCYS",
+    "https://www.amazon.in/dp/B07WHPZ5MR",
+    "https://www.amazon.in/dp/B0FG86CZSC",
+    "https://www.amazon.in/dp/B0GMTRP35G",
+    "https://www.amazon.in/dp/B0DQLVWRVX",
+    "https://www.amazon.in/dp/B0FDW146QZ",
+    "https://www.amazon.in/dp/B0F7M1338H",
+    "https://www.amazon.in/dp/B0G3XDF5G7",
+    "https://www.amazon.in/dp/B0G3XGKMJX",
+    "https://www.amazon.in/dp/B0BQJM2PXW",
+    "https://www.amazon.in/dp/B0FVW9B8GQ",
+    "https://www.amazon.in/dp/B07WHQLR7G",
+    "https://www.amazon.in/dp/B07WHRZ7XX",
+    "https://www.amazon.in/dp/B07WGP3P6C",
+    "https://www.amazon.in/dp/B0DZTQ44FC",
+    "https://www.amazon.in/dp/B0DHL98QM2",
+    "https://www.amazon.in/dp/B0GMG352VH",
+    "https://www.amazon.in/dp/B0GMG65KB8",
+    "https://www.amazon.in/dp/B0G1PYD3J2",
+    "https://www.amazon.in/dp/B0DGLKNHVN",
+    "https://www.amazon.in/dp/B0DGLJ1K6M",
+    "https://www.amazon.in/dp/B0D5HJWDQQ",
+    "https://www.amazon.in/dp/B0D5HMXD53",
+    "https://www.amazon.in/dp/B0FKT2WDXK",
+    "https://www.amazon.in/dp/B0DZXYT2MR",
+    "https://www.amazon.in/dp/B0G8XGVQ69",
+    "https://www.amazon.in/dp/B0G8Y75JGP",
+    "https://www.amazon.in/dp/B0G8YNRBF2",
+    "https://www.amazon.in/dp/B0GKB2XB95",
+    "https://www.amazon.in/dp/B007P8DMBE",
+    "https://www.amazon.in/dp/B07Z6JYPTW",
+    "https://www.amazon.in/dp/B0DZTQ1XH1",
+    "https://www.amazon.in/dp/B0D37WNHX3",
+    "https://www.amazon.in/dp/B0CMQL9P5G",
+    "https://www.amazon.in/dp/B0GTBJN861",
+    "https://www.amazon.in/dp/B0GTBXB541",
+    "https://www.amazon.in/dp/B09WRP2WXG",
+    "https://www.amazon.in/dp/B09WRMNJ9G",
+    "https://www.amazon.in/dp/B0758HM95H",
+    "https://www.amazon.in/dp/B0FP8QJBGN",
+    "https://www.amazon.in/dp/B0FP1YTZJ2",
+    "https://www.amazon.in/dp/B0F2YMLRDG",
+    "https://www.amazon.in/dp/B0GGRP4ZDC",
+    "https://www.amazon.in/dp/B0DZXZTPN8",
+    "https://www.amazon.in/dp/B0FQFVRC1B",
+    "https://www.amazon.in/dp/B0F6YNZ6MN",
+    "https://www.amazon.in/dp/B0F6YLWLSL",
+    "https://www.amazon.in/dp/B0GKB38XWZ",
+    "https://www.amazon.in/dp/B089MV3MVY",
+    "https://www.amazon.in/dp/B0G4W7T4ZM",
+    "https://www.amazon.in/dp/B0GNMFZGWK",
+    "https://www.amazon.in/dp/B07WGNYCPN",
+    "https://www.amazon.in/dp/B0DPW21322",
+    "https://www.amazon.in/dp/B0DJ7XPSSW",
+    "https://www.amazon.in/dp/B0FLQLT41D",
+    "https://www.amazon.in/dp/B0FDJ5BML4",
+    "https://www.amazon.in/dp/B0FM88VR1K",
+    "https://www.amazon.in/dp/B0FM781SVX",
+    "https://www.amazon.in/dp/B0G481N2LC",
+    "https://www.amazon.in/dp/B0GKF9BYT7",
+    "https://www.amazon.in/dp/B0CWPF945W",
+    "https://www.amazon.in/dp/B085J1DRPF",
+    "https://www.amazon.in/dp/B0G8XTKT1Y",
+    "https://www.amazon.in/dp/B0G8XT9W3C",
+    "https://www.amazon.in/dp/B0DX74KNC4",
+    "https://www.amazon.in/dp/B0FTZ3P1ZH",
+    "https://www.amazon.in/dp/B0G485GN9S",
+    "https://www.amazon.in/dp/B0FHGGW5PJ",
+    "https://www.amazon.in/dp/B0CXMCX9MD",
+    "https://www.amazon.in/dp/B0FTYXP5YC",
+    "https://www.amazon.in/dp/B0FTZ2RQVM",
+    "https://www.amazon.in/dp/B0DZTNQKX7",
+    "https://www.amazon.in/dp/B0DR5D79DQ",
+    "https://www.amazon.in/dp/B0DR5GWZHK",
+    "https://www.amazon.in/dp/B0DR5HMT9M",
+    "https://www.amazon.in/dp/B0CX74JKLL",
+    "https://www.amazon.in/dp/B08WJ9S2VG",
+    "https://www.amazon.in/dp/B0GPXD5TW8",
+    "https://www.amazon.in/dp/B0GPX7HSB9",
+    "https://www.amazon.in/dp/B0FP5NZYNQ",
+    "https://www.amazon.in/dp/B0FP5D8RCH",
+    "https://www.amazon.in/dp/B0G7F8MXRR",
+    "https://www.amazon.in/dp/B0FNLRR81F",
+    "https://www.amazon.in/dp/B0DTJZPNF9",
+    "https://www.amazon.in/dp/B0GGRT6Z46",
+    "https://www.amazon.in/dp/B0F1NDMXVF",
+    "https://www.amazon.in/dp/B0FHW7RSPN",
+    "https://www.amazon.in/dp/B0DZTMZL4X",
+    "https://www.amazon.in/dp/B0G4HYD718",
+    "https://www.amazon.in/dp/B08XQYFBM7",
+    "https://www.amazon.in/dp/B0CYQ3WSFP",
+    "https://www.amazon.in/dp/B0CYQ3D6VJ",
+    "https://www.amazon.in/dp/B09SZG7JPN",
+    "https://www.amazon.in/dp/B0DDY9T5KS",
+    "https://www.amazon.in/dp/B0CJ91BY1H",
+    "https://www.amazon.in/dp/B0GGRD8DRW",
+    "https://www.amazon.in/dp/B0D3BHRBZ3",
+    "https://www.amazon.in/dp/B0F5YDL9WT",
+    "https://www.amazon.in/dp/B0BL25G93F",
+    "https://www.amazon.in/dp/B07ZJR1LKM",
+    "https://www.amazon.in/dp/B00LCX68HI",
+    "https://www.amazon.in/dp/B0BS1S2WSX",
+    "https://www.amazon.in/dp/B0CH173P8K",
+    "https://www.amazon.in/dp/B0BPF658YL",
+    "https://www.amazon.in/dp/B0DY3WQ269",
+    "https://www.amazon.in/dp/B0D8L67DHF",
+    "https://www.amazon.in/dp/B0D8L81ZMJ",
+    "https://www.amazon.in/dp/B0D8L7MDB7",
+    "https://www.amazon.in/dp/B0GTZKCC4L",
+    "https://www.amazon.in/dp/B0FNR55T7X",
+    "https://www.amazon.in/dp/B0CYQ3T919",
+    "https://www.amazon.in/dp/B0CYPZWPL7",
+    "https://www.amazon.in/dp/B0GRNCNP36",
+    "https://www.amazon.in/dp/B0GRNF95HV",
+    "https://www.amazon.in/dp/B0GRNJ2R81",
+    "https://www.amazon.in/dp/B07WDKLM55",
+    "https://www.amazon.in/dp/B0FRSTWZ7D",
+    "https://www.amazon.in/dp/B0GWHQKTJB",
+    "https://www.amazon.in/dp/B0GWHLB3TJ",
+    "https://www.amazon.in/dp/B0FFB1L75V",
+    "https://www.amazon.in/dp/B0FF29BYHF",
+    "https://www.amazon.in/dp/B0G5YC6DM8",
+    "https://www.amazon.in/dp/B0GYSMK1GB",
+    "https://www.amazon.in/dp/B0GX9GZKHV",
+    "https://www.amazon.in/dp/B0GYLF475N",
+    "https://www.amazon.in/dp/B0GX24CRSW",
+    "https://www.amazon.in/dp/B0F83HR8DR",
+    "https://www.amazon.in/dp/B0CBKL4R94",
+    "https://www.amazon.in/dp/B0CBKKBGWZ",
+    "https://www.amazon.in/dp/B0GVG27VS7",
+    "https://www.amazon.in/dp/B0GVFZXB9J",
+    "https://www.amazon.in/dp/B0G6KNC9ZZ",
+    "https://www.amazon.in/dp/B0G6L4BVWV",
+    "https://www.amazon.in/dp/B0G6LDSC4F",
+    "https://www.amazon.in/dp/B0GX22LXVS",
+    "https://www.amazon.in/dp/B0FDB765TN",
+    "https://www.amazon.in/dp/B0C6B2YZHM",
+    "https://www.amazon.in/dp/B0G8Y7435X",
+    "https://www.amazon.in/dp/B0G91PGPDW",
+    "https://www.amazon.in/dp/B0DDY9XDJS",
+    "https://www.amazon.in/dp/B0DF7HWHD2",
+    "https://www.amazon.in/dp/B0D3J5PTSX"
+  ],
+  "most_repeated_products": [
+    {
+      "product_url": "https://www.amazon.in/dp/b0bfwwtq4t",
+      "listing_occurrences": 4350
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0d8ft6shs",
+      "listing_occurrences": 4176
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0csp891cr",
+      "listing_occurrences": 4176
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0f1twkrf6",
+      "listing_occurrences": 4175
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0g9tkrgzd",
+      "listing_occurrences": 4008
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0f2fjnfrm",
+      "listing_occurrences": 2856
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b08wkfsn84",
+      "listing_occurrences": 1536
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0g135nn2h",
+      "listing_occurrences": 1455
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dydswhvw",
+      "listing_occurrences": 627
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0fjlrcjsc",
+      "listing_occurrences": 552
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0f9x9dxzc",
+      "listing_occurrences": 468
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dxbxd6mn",
+      "listing_occurrences": 324
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dxbw3pnt",
+      "listing_occurrences": 285
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gbvvcyrx",
+      "listing_occurrences": 222
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gs5y7qbf",
+      "listing_occurrences": 192
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gzgy1823",
+      "listing_occurrences": 190
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gyfs43n7",
+      "listing_occurrences": 190
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gx9gcm48",
+      "listing_occurrences": 142
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0fjfvlpqp",
+      "listing_occurrences": 124
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b06xwrrmyx",
+      "listing_occurrences": 121
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b08cs8t8dc",
+      "listing_occurrences": 121
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0779v61xb",
+      "listing_occurrences": 121
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0fjfsdyvc",
+      "listing_occurrences": 120
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b08hnbhsqv",
+      "listing_occurrences": 116
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dhyxz31j",
+      "listing_occurrences": 116
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0cm3dcwqy",
+      "listing_occurrences": 116
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0fjft4vdy",
+      "listing_occurrences": 114
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gl1wghjx",
+      "listing_occurrences": 97
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gmqg7qm5",
+      "listing_occurrences": 95
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gs5sm6jr",
+      "listing_occurrences": 94
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gf23r9b6",
+      "listing_occurrences": 90
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dqf11vxy",
+      "listing_occurrences": 88
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dqdzjrvd",
+      "listing_occurrences": 88
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dqf229vv",
+      "listing_occurrences": 88
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gf24lr6d",
+      "listing_occurrences": 87
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gf1v7bcc",
+      "listing_occurrences": 87
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gmqmg91n",
+      "listing_occurrences": 87
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gmqddrx8",
+      "listing_occurrences": 85
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0d8l67dhf",
+      "listing_occurrences": 75
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0d8l81zmj",
+      "listing_occurrences": 72
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0d8l7mdb7",
+      "listing_occurrences": 72
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gl1jfk48",
+      "listing_occurrences": 67
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0f3thy5pm",
+      "listing_occurrences": 63
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0g5g8zv1g",
+      "listing_occurrences": 59
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dzhqq3mg",
+      "listing_occurrences": 57
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gx9cbcbv",
+      "listing_occurrences": 53
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gwvk313r",
+      "listing_occurrences": 51
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0drcv2gww",
+      "listing_occurrences": 42
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0fjfryxfk",
+      "listing_occurrences": 32
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0c5rjhd7d",
+      "listing_occurrences": 31
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0c5hqz8yp",
+      "listing_occurrences": 27
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0f6yq9whb",
+      "listing_occurrences": 26
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b09wrp2wxg",
+      "listing_occurrences": 26
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dxpw662s",
+      "listing_occurrences": 25
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dxpvdb3t",
+      "listing_occurrences": 24
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dxpt71mw",
+      "listing_occurrences": 24
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dxbz3bmy",
+      "listing_occurrences": 24
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gzgpzhl1",
+      "listing_occurrences": 24
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gs5v95db",
+      "listing_occurrences": 23
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gwvhpy1k",
+      "listing_occurrences": 18
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0g13h7517",
+      "listing_occurrences": 18
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0grqp1cfs",
+      "listing_occurrences": 16
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gl8fzp8y",
+      "listing_occurrences": 16
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gl8b68fp",
+      "listing_occurrences": 16
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0fjmk27y5",
+      "listing_occurrences": 16
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0fl56ghpx",
+      "listing_occurrences": 16
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gl89jy6x",
+      "listing_occurrences": 16
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gl8sghmt",
+      "listing_occurrences": 16
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0cs69n54k",
+      "listing_occurrences": 16
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gcc3kfln",
+      "listing_occurrences": 16
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0g29vszf6",
+      "listing_occurrences": 15
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gfw4p6gg",
+      "listing_occurrences": 14
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0f1d9lck3",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0grd84rlf",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0f2hbyz8b",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0fn7wcv5y",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dx6p3rx9",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0g49vmcz3",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0fnmr6ktq",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dq8s38r8",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0fhb53vl7",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gfw1bj1d",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gtrxvq8n",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0ggzchmqs",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0f7rb8nnl",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0b9yk24tf",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0g4bwmqdz",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gwljl55d",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0f5wsdy93",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0f3xb7t5q",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0f6vvj2b9",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0fskxg9lz",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0f43vz4h1",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dq8w9ctt",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gtv6s8q2",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gp8xth7k",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0g5g25ybq",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0dsknqw8f",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0gl8kp32r",
+      "listing_occurrences": 13
+    },
+    {
+      "product_url": "https://www.amazon.in/dp/b0ftryh3xm",
+      "listing_occurrences": 13
+    }
+  ]
+}
